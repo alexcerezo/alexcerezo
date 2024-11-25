@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at the University of Málaga<br>👯 I’m looking to collaborate on projects related to AI<br>🌱 I’m currently learning AI automation<br>⚡ I love wine
+🔭 I’m currently studying at the University of Málaga<br>👯 I’m looking to collaborate on projects related to AI<br>🌱 I’m currently learning AI automation and C#<br>⚡ I love wine
 
 
 ## 🌐 Socials:
