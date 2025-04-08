@@ -7,6 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=alexcerezo&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcerezo&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcerezo&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=pie)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexcerezo&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
