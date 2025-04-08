@@ -1,0 +1,355 @@
+<svg viewBox="0 0 2000 1000" xmlns="http://www.w3.org/2000/svg">
+  <style>
+  * {
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 10vh;
+    color: #F0F6FC
+  }
+
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(240, 246, 252, 0.2);
+    border-radius: 10vh;
+    border: 1px solid #F0F6FC;
+    width: 80%;
+    height: 80%;
+    z-index: 1;
+  }
+
+  h1 {
+    font-size: 20vw;
+  }
+
+  main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+  }
+
+  .sphere1 {
+    position: absolute;
+    width: 18vw;
+    height: 18vw;
+    background: linear-gradient(135deg, rgba(233,37,206,1) 0%, rgba(173,25,222,1) 50%, rgba(132,9,185,1) 75%, rgba(27,0,77,1) 100%);
+    border-radius: 50%;
+    animation: sphere1 10s infinite linear;
+  }
+
+  .sphere2 {
+    position: absolute;
+    width: 18vw;
+    height: 18vw;
+    background: linear-gradient(135deg, rgba(99,37,233,1) 0%, rgba(41,25,222,1) 50%, rgba(11,9,185,1) 75%, rgba(0,9,77,1) 100%);
+    border-radius: 50%;
+    animation: sphere2 10s infinite linear;
+  }
+
+
+  @keyframes sphere1 {
+    from {
+        margin-left: -80%; 
+        margin-bottom: -40%;
+        border-radius: 33% 67% 55% 45% / 48% 50% 50% 52% ;
+    }
+
+    25%  {
+        margin-left: 80%; 
+        margin-bottom: -40%;
+        border-radius: 38% 62% 60% 40% / 56% 66% 34% 44% ;
+    }
+
+    50% {
+        margin-left:80%; 
+        margin-bottom: 40%;
+        border-radius: 62% 38% 37% 63% / 57% 66% 34% 43% ;
+    }
+
+    75% {
+        margin-left: -80%; 
+        margin-bottom: 40%;
+        border-radius: 60% 40% 32% 68% / 43% 54% 46% 57% ;
+    }
+
+    to {
+        margin-left: -80%; 
+        margin-bottom: -40%;
+        border-radius: 33% 67% 55% 45% / 48% 50% 50% 52%  ;
+
+    }
+  }
+
+    @keyframes sphere2 {
+    from {
+        margin-left:80%; 
+        margin-bottom: 40%;
+        border-radius: 62% 38% 37% 63% / 57% 66% 34% 43% ;
+
+    }
+
+    25%  {
+        margin-left: -80%; 
+        margin-bottom: 40%;
+        border-radius: 60% 40% 32% 68% / 43% 54% 46% 57% ;
+    }
+
+    50% {
+        margin-left:-80%; 
+        margin-bottom: -40%;
+        border-radius: 33% 67% 55% 45% / 48% 50% 50% 52% ;
+
+    }
+
+    75% {
+        margin-left:80%; 
+        margin-bottom: -40%;
+        border-radius: 38% 62% 60% 40% / 56% 66% 34% 44% ;
+    }
+
+    to {
+        margin-left:80%; 
+        margin-bottom: 40%;
+        border-radius: 62% 38% 37% 63% / 57% 66% 34% 43% ;
+        
+    }
+}
+
+.rotation {
+  animation: rotation 9s linear infinite;
+      transform: rotate3d(100, -100, 1, 0deg) rotatey(1deg);
+    transform-style: preserve-3d;
+}
+@keyframes rotation {
+  0% {
+  transform: rotatey(10deg);
+  }
+  50% {
+    transform: rotatey(90deg);
+  }
+  100% {
+    transform: rotatey(10deg);
+  }
+}
+#cube {
+  display:block;
+  margin: 5vw;
+  width: 20vw;
+  height: 20vw;
+  transform-style: preserve-3d;
+  transform: rotatey(0deg) rotateX(-30deg) rotatez(-20deg)
+}
+
+.face {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  backface-visibility: inherit;
+  font-size: 6vw;
+  color: #fff;
+  
+}
+
+.front {
+    background: linear-gradient(#151515, #00ee00);
+    transform: translateZ(9.9vw);
+  transform-style: preverse-3d;
+}
+
+.back {
+    background: linear-gradient(#151515, #00ee00);
+    transform: rotateY(180deg) translateZ(9.9vw);
+  transform-style: preverse-3d;
+}
+
+.right {
+  transform-style: preverse-3d;
+  background: linear-gradient(#151515, #00ee00);
+  transform: rotateY(90deg) translateZ(9.9vw);
+}
+
+.left {
+  background: linear-gradient(#151515, #00ee00);
+  transform: rotateY(-90deg) translateZ(9.9vw);
+  transform-style: preverse-3d
+}
+
+.top {
+  background: #222;
+  transform: rotateX(90deg) translateZ(9.9vw);
+  transform-style: preverse-3d;
+}
+.glow {
+    transform: rotatex(-90deg) translateZ(16vw);
+  transform-style: preverse-3d
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 20vw;
+  height: 20vw;
+  background: #0f0;
+  filter: blur(3vw);
+  box-shadow: 0 0 12vw rgba(0,255,0,0.2),
+    0 0 20vw rgba(0,255,0,0.4),
+    0 0 20vw rgba(0,255,0,0.6),
+    0 0 20vw rgba(0,255,0,0.8),
+    0 0 20vw rgba(0,255,0,1);
+}
+
+.bottom {
+  background: #00ee00;
+  transform: rotateX(-90deg) translateZ(9.9vw);
+  transform-style: preverse-3d;
+    
+}
+
+section {
+  display: grid;
+  gap: 4rem;
+  align-items: center;
+  justify-content: center;
+}
+
+section p {
+  margin: 0;
+  font-size: 2.25rem;
+  color: hsl(0 0% 40%);
+  text-align: center;
+  background: linear-gradient(hsl(0 0% 80%), hsl(0 0% 50%));
+  color: transparent;
+  background-clip: text;
+}
+
+.code {
+  font-size: 3rem;
+  display: flex;
+  flex-wrap: nowrap;
+  color: hsl(0 0% 100%);
+  border-radius: 1rem;
+  background: hsl(0 0% 6%);
+  justify-content: center;
+  box-shadow: 0 1px hsl(0 0% 100% / 0.25) inset;
+}
+
+.code:hover {
+  cursor: grab;
+}
+
+.digit {
+  display: flex;
+  height: 100%;
+  padding: 5.5rem 1rem;
+}
+
+.digit:focus-visible {
+  outline-color: hsl(0 0% 50% / 0.25);
+  outline-offset: 1rem;
+}
+
+.digit span {
+  scale: calc(var(--active, 0) + 0.5);
+  filter: blur(calc((1 - var(--active, 0)) * 1rem));
+  transition: scale calc(((1 - var(--active, 0)) + 0.2) * 1s), filter calc(((1 - var(--active, 0)) + 0.2) * 1s);
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+.digit:first-of-type {
+  padding-left: 5rem;
+}
+.digit:last-of-type {
+  padding-right: 5rem;
+}
+
+:root {
+  --lerp-0: 1; /* === sin(90deg) */
+  --lerp-1: calc(sin(50deg));
+  --lerp-2: calc(sin(45deg));
+  --lerp-3: calc(sin(35deg));
+  --lerp-4: calc(sin(25deg));
+  --lerp-5: calc(sin(15deg));
+}
+
+.digit:is(:hover, :focus-visible) {
+  --active: var(--lerp-0);
+}
+.digit:is(:hover, :focus-visible) + .digit,
+.digit:has(+ .digit:is(:hover, :focus-visible)) {
+  --active: var(--lerp-1);
+}
+.digit:is(:hover, :focus-visible) + .digit + .digit,
+.digit:has(+ .digit + .digit:is(:hover, :focus-visible)) {
+  --active: var(--lerp-2);
+}
+.digit:is(:hover, :focus-visible) + .digit + .digit + .digit,
+.digit:has(+ .digit + .digit + .digit:is(:hover, :focus-visible)) {
+  --active: var(--lerp-3);
+}
+.digit:is(:hover, :focus-visible) + .digit + .digit + .digit + .digit,
+.digit:has(+ .digit + .digit + .digit + .digit:is(:hover, :focus-visible)) {
+  --active: var(--lerp-4);
+}
+.digit:is(:hover, :focus-visible) + .digit + .digit + .digit + .digit + .digit,
+.digit:has(+ .digit + .digit + .digit + .digit + .digit:is(:hover, :focus-visible)) {
+  --active: var(--lerp-5);
+}
+}
+
+  </style>
+
+  <!-- Common use case: embed HTML text into SVG -->
+  <foreignObject width="2000" height="1000">
+    <!--
+      In the context of SVG embedded in an HTML document, the XHTML
+      namespace could be omitted, but it is mandatory in the
+      context of an SVG document
+    -->
+    <main xmlns="http://www.w3.org/1999/xhtml"> 
+        <div class="container" xmlns="http://www.w3.org/1999/xhtml">
+              <ul class="code">
+                <li tabindex="0" class="digit">
+                  <span>0</span>
+                </li>
+                <li tabindex="0" class="digit">
+                  <span>3</span>
+                </li>
+                <li tabindex="0" class="digit">
+                  <span>4</span>
+                </li>
+                <li tabindex="0" class="digit">
+                  <span>8</span>
+                </li>
+                <li tabindex="0" class="digit">
+                  <span>7</span>
+                </li>
+                <li tabindex="0" class="digit">
+                  <span>2</span>
+                </li>
+              </ul>
+            <div  xmlns="http://www.w3.org/1999/xhtml" class="rotation">
+                <div  xmlns="http://www.w3.org/1999/xhtml" id="cube">
+                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face front"></div>
+                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face back"></div>
+                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face right"></div>
+                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face left"></div>
+                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face top"></div>
+                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face bottom"></div>
+                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face glow"></div> 
+                </div>
+            </div>
+        </div>
+        <div class="sphere1" xmlns="http://www.w3.org/1999/xhtml"></div>
+        <div class="sphere2" xmlns="http://www.w3.org/1999/xhtml"></div>
+        
+    </main>
+  </foreignObject>
+</svg>
