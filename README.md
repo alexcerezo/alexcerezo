@@ -9,7 +9,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexcerezo&theme=one_dark_pro&hide_border=true&show_icons=true" />
 </a>
 <a href="https://github.com/alexcerezo/alexcerezo">
-  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=alexcerezo&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true&hide_border=true" />
+  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=alexcerezo&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true&hide_border=true&card_width=320" />
 </a>
 <br>
 <a href="https://github.com/alexcerezo/alexcerezo">
