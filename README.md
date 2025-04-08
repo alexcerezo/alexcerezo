@@ -6,17 +6,17 @@
 
 # 📊 GitHub Stats:
 <a href="https://github.com/alexcerezo/alexcerezo">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexcerezo&theme=one_dark_pro&hide_border=true&show_icons=true&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexcerezo&theme=one_dark_pro&hide_border=true&show_icons=true&card_width=500" />
 </a>
 <a href="https://github.com/alexcerezo/alexcerezo">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
 </a>
 <br>
 <a href="https://github.com/alexcerezo/alexcerezo">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true&card_width=500" />
 </a>
 <a href="https://github.com/alexcerezo/alexcerezo">
-  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=alexcerezo&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true&card_width=320" />
+  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=alexcerezo&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true&card_width=320" />
 </a>
 
 ## 🏆 GitHub Trophies
