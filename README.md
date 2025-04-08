@@ -40,6 +40,6 @@
 > This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
 
   
-<p>
-<img width="96.988%" src="test.svg">
-</p>
+<picture>
+				<img width="100%" src="footer.svg" alt="footer">
+</picture>
