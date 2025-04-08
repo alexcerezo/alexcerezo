@@ -1,3 +1,9 @@
+<picture>
+				<source media="(prefers-color-scheme: light)" src="light-header.svg">
+				<source media="(prefers-color-scheme: dark)" srcset="dark-header.svg">
+				<img width="100%" src="light-header.svg" alt="Header">
+</picture>
+
 # 💫 About Me:
 🔭 I’m currently studying at the University of Málaga<br>👯 I’m looking to collaborate on projects related to AI<br>🌱 I’m currently learning AI automation and C#<br>⚡ I love wine
 

@@ -1,0 +1,300 @@
+<svg viewBox="0 0 1500 600" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @import url('https://fonts.googleapis.com/css?family=Roboto:700');
+@keyframes showTopText {
+  0% { transform: translate3d(0, 100%, 0); }
+  40%, 60% { transform: translate3d(0, 50%, 0); }
+  100% { transform: translate3d(0, 0, 0); }
+}
+@keyframes showBottomText {
+  0% { transform: translate3d(0, -100%, 0); }
+  100% { transform: translate3d(0, 0, 0); }
+}
+.animated-title {
+  display: flex;
+  color: #264DE4;
+  font-family: Helvetica ;
+  height: 90vmin;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 90vmin;
+  margin-top: 3%;
+}
+.animated-title > div {
+  height: 50%;
+  overflow: hidden;
+  position: absolute;
+  width: 100%;
+}
+.animated-title > div div {
+  font-size: 12vmin;
+  padding: 2vmin 0;
+  position: absolute;
+}
+.animated-title > div div span {
+  display: block;
+}
+.animated-title > div.text-top {
+  border-bottom: 1vmin solid #264DE4;
+  top: 0;
+}
+.animated-title > div.text-top div {
+  animation: showTopText 1s;
+  animation-delay: 0.5s;
+  animation-fill-mode: forwards;
+  bottom: 0;
+  transform: translate(0, 100%);
+}
+.animated-title > div.text-top div span:first-child {
+  color:rgb(95, 122, 227);
+}
+.animated-title > div.text-bottom {
+  bottom: 0;
+}
+.animated-title > div.text-bottom div {
+  animation: showBottomText 0.5s;
+  animation-delay: 1.75s;
+  animation-fill-mode: forwards;
+  top: 0;
+  transform: translate(0, -100%);
+}
+
+
+
+
+:root {
+	--h: 226;
+  --s: 100%;
+  --size: clamp(14rem, -0.4000rem + 64.0000vw, 18rem);
+	
+	--tz: calc(var(--size) / 2);
+  
+  --shade-light: hsl(var(--h) var(--s) 96%);
+  --shade-mid: hsl(var(--h) var(--s) 94%);
+  --shade-dark: hsl(var(--h) var(--s) 92%);
+	
+	--text: #222;
+}
+
+
+
+*, *::before, *::after {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+    font-family: Helvetica;
+}
+
+svg {
+  max-height: 100%;
+  pointer-events: none;   
+}
+
+.b{
+	width: var(--size);
+	height: var(--size);
+	position: relative;
+	transform-style: preserve-3d;
+	transform: rotate3d(-.1, .2, -.035, 45deg);
+    margin-left: 35%;
+}
+
+
+.b--top, .b--right, .b--bottom, .b--left {
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	backface-visibility: inherit;
+}
+
+
+.b--top {
+	background-color: var(--shade-light);
+	transform: rotateX(90deg) translateZ(var(--tz));
+}
+
+.b--right {
+	background-color: var(--shade-dark);
+	transform: translateZ(var(--tz));
+}
+
+
+
+.b--left {
+	background-color: var(--shade-mid);
+	transform: rotateY(-90deg) translateZ(var(--tz));
+}
+
+
+.b--right, .b--left {
+	height: 120%;
+}
+.b--bottom {
+	bottom: -20%;
+}
+
+/*--Labels--*/
+
+.label--top {
+	display: grid;
+	place-content: center;
+	height: 100%;
+	box-shadow: inset 0 -2rem 0 var(--shade-mid), 
+		inset 0 -4rem 0 -1px hsl(var(--h), var(--s), 60%);
+}
+
+.label--right, .label--left {
+	height: 100%;
+	padding-inline: 1rem;
+	padding-block: 2rem;
+}
+
+.label--right {
+	opacity: .8;
+}
+
+.label--left {
+	box-shadow: inset -2rem 0 0 var(--shade-mid), 
+		inset -4rem 0 0 -1px hsl(var(--h), var(--s), 60%);
+}
+
+h1 {
+	font-size: 2rem;
+	font-weight: 400;
+	line-height: 1;
+}
+
+h1 span {
+	display: block;
+	font-size: 4rem;
+	font-weight: 900;
+}
+
+h2 {
+	font-size: 1rem;
+}
+
+hr {
+	border: none;
+	height: 1px;
+	background-color: var(--text);
+	margin-block: .5rem;
+}
+
+ul {
+	list-style: none;
+	font-size: .875rem;
+	font-weight: 500;
+	line-height: 1.5;
+}
+
+p {
+	font-size: .75rem;
+	padding: .5rem;
+	margin-block-end: .5rem;
+	border: 1px solid var(--text);
+	border-radius: .5rem;
+}
+
+.dose, .icons {
+	font-size: 1.75rem;
+	display: block;
+	position: absolute;
+	bottom: 1rem;
+	right: 1rem;
+}
+
+.dose {
+	background-color: var(--shade-mid)
+}
+
+.icons {
+	display: flex;
+	gap: .5rem;
+	align-items: center;
+}
+
+.container {
+      display: flex;
+      justify-content: center; /* Coloca los elementos en extremos opuestos */
+      align-items: center; /* Alinea los elementos verticalmente */
+      gap: 2rem; /* Espaciado entre los elementos */
+      height: 100%;
+      width: 100%;
+    }
+
+
+  </style>
+
+  <!-- Common use case: embed HTML text into SVG -->
+  <foreignObject width="1500" height="600">
+    <!--
+      In the context of SVG embedded in an HTML document, the XHTML
+      namespace could be omitted, but it is mandatory in the
+      context of an SVG document
+    -->
+    <main xmlns="http://www.w3.org/1999/xhtml" class="container">
+    <div xmlns="http://www.w3.org/1999/xhtml" class="animated-title">
+      <div xmlns="http://www.w3.org/1999/xhtml" class="text-top">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <span>Alex Cerezo</span>
+          <span>Software Dev</span>
+        </div>
+      </div>
+      <div xmlns="http://www.w3.org/1999/xhtml" class="text-bottom">
+        <div xmlns="http://www.w3.org/1999/xhtml">AI specialist</div>
+      </div>
+    </div>
+
+    <div xmlns="http://www.w3.org/1999/xhtml"  class="b">
+        <div xmlns="http://www.w3.org/1999/xhtml"  class="b--top">
+          <div xmlns="http://www.w3.org/1999/xhtml"  class="label--top">
+            <svg viewBox="0 0 256 361" preserveAspectRatio="xMidYMid" width="72" aria-hidden="true" focusable="false">
+              <path d="M127.84 360.09 23.66 331.17.45 70.77h255.1l-23.24 260.36-104.47 28.96Z" fill="#264DE4"></path>
+              <path d="m212.42 314.55 19.86-222.5H128v245.9l84.42-23.4Z" fill="#2965F1"></path>
+              <path d="m53.67 188.64 2.86 31.93H128v-31.93H53.67ZM47.92 124l2.9 31.93H128V124H47.92ZM128 271.58l-.14.04-35.57-9.6-2.27-25.48H57.96l4.47 50.15 65.42 18.16.15-.04v-33.23Z" fill="#EBEBEB"></path>
+              <path d="M60.48 0h38.68v16.18h-22.5v16.17h22.5v16.18H60.48V0Zm46.42 0h38.68v14.07h-22.5v2.8h22.5v32.36H106.9V34.46h22.5v-2.81h-22.5V0Zm46.42 0H192v14.07h-22.5v2.8H192v32.36h-38.68V34.46h22.5v-2.81h-22.5V0Z"></path>
+              <path d="m202.13 188.64 5.76-64.65h-80v31.94h45l-2.9 32.7h-42.1v31.94h39.33L163.5 262l-35.62 9.62v33.22l65.47-18.14.48-5.4 7.5-84.08.79-8.57Z" fill="#FFF"></path>
+            </svg>
+          </div>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml"  class="b--left">
+          <div xmlns="http://www.w3.org/1999/xhtml"  class="label--left">
+            <h1>This is pure<sup>*</sup><span>CSS</span></h1>
+            <hr/>
+            <ul>
+              <li><sup>*</sup> Inside an SVG</li>
+              <li><sup>*</sup> No installs</li>
+              <li><sup>*</sup> No dependencies</li>
+              <li><sup>*</sup> No bullshit</li>
+            </ul><span class="dose">150ml</span>
+          </div>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml"  class="b--right">
+          <div xmlns="http://www.w3.org/1999/xhtml"  class="label--right">
+            <h2>Precautions:</h2>
+            <p>May cause nausea and/or confusion to <strong>some developers.</strong> Increase recommended dosage until symptoms disappear completely or dead.</p>
+            <p><strong>Beware:</strong> Some high-end features may be incompatible with specific browsers like Internet Explorer.</p><span class="icons">
+              <svg viewBox="0 0 262 336" width="24" aria-hidden="true" focusable="false">
+                <g stroke="var(--text)" stroke-linecap="round" stroke-linejoin="round">
+                  <g fill="none" stroke-width="8">
+                    <path d="M7.25 167H133z" stroke-width="14"></path>
+                    <path d="m129 168-15 158H39.9L11.2 168"></path>
+                    <path d="M16.5 196H126l-2 26H21l4.7 26h95.5l-2.2 26H30.6l4.6 26H116m-20.6 26 5.6-159H70.9L76 326H59.9L40.2 167"></path>
+                  </g>
+                  <path d="m59.3 64.5 159.7.4c14 15.6 37 68.1 38 81.1l-80 4c-2-27-14-51.1-16-54.9zM177 155l-27 175 62-115 28 116 16-174z" stroke-width="4"></path>
+                  <circle cx="187" cy="31" r="30" stroke="none"></circle>
+                  <path d="M28.6 138C56 124 55.8 103 58 103c26 11 51 14 67 10-46.6 36-23 37-29.4 35-19.7-7-48.3 14-67-10m48.9-28c25.5 0 25.5-8 30.5-10.3 0 0 3 10.3 9 15.3" fill="none" stroke-width="6"></path>
+                </g>
+              </svg>
+              <svg viewBox="0 0 24 24" width="32" fill="var(--text)" aria-hidden="true" focusable="false">
+                <path d="M19.562 12.098l1.531 2.652c.967 1.674.393 3.815-1.28 4.781-.533.307-1.136.469-1.75.469H16v2l-5-3.5 5-3.5v2h2.062c.088 0 .174-.023.25-.067.213-.123.301-.378.221-.601l-.038-.082-1.531-2.652 2.598-1.5zM7.737 9.384l.53 6.08-1.73-1-1.032 1.786c-.044.076-.067.162-.067.25 0 .245.177.45.41.492l.09.008H9v3H5.938c-1.933 0-3.5-1.567-3.5-3.5 0-.614.162-1.218.469-1.75l1.031-1.786-1.732-1 5.53-2.58zm6.013-6.415c.532.307.974.749 1.281 1.281l1.03 1.786 1.733-1-.53 6.08-5.532-2.58 1.732-1-1.031-1.786c-.044-.076-.107-.14-.183-.183-.213-.123-.478-.072-.631.11l-.052.073-1.53 2.652-2.599-1.5 1.53-2.652c.967-1.674 3.108-2.248 4.782-1.281z"></path>
+              </svg></span>
+          </div>
+        </div>
+        <div xmlns="http://www.w3.org/1999/xhtml"  class="b--bottom"></div>
+    </div>
+    </main>  
+  </foreignObject>
+</svg>

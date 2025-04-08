@@ -221,15 +221,15 @@
     -->
     <main xmlns="http://www.w3.org/1999/xhtml"> 
         <div class="container" xmlns="http://www.w3.org/1999/xhtml">
-            <div  xmlns="http://www.w3.org/1999/xhtml" class="rotation">
+            <div xmlns="http://www.w3.org/1999/xhtml" class="rotation">
                 <div  xmlns="http://www.w3.org/1999/xhtml" id="cube">
-                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face front"></div>
-                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face back"></div>
-                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face right"></div>
-                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face left"></div>
-                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face top"></div>
-                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face bottom"></div>
-                    <div  xmlns="http://www.w3.org/1999/xhtml" class="face glow"></div> 
+                    <div xmlns="http://www.w3.org/1999/xhtml" class="face front"></div>
+                    <div xmlns="http://www.w3.org/1999/xhtml" class="face back"></div>
+                    <div xmlns="http://www.w3.org/1999/xhtml" class="face right"></div>
+                    <div xmlns="http://www.w3.org/1999/xhtml" class="face left"></div>
+                    <div xmlns="http://www.w3.org/1999/xhtml" class="face top"></div>
+                    <div xmlns="http://www.w3.org/1999/xhtml" class="face bottom"></div>
+                    <div xmlns="http://www.w3.org/1999/xhtml" class="face glow"></div> 
                 </div>
             </div>
         </div>
