@@ -14,6 +14,9 @@
 <a href="https://github.com/alexcerezo/alexcerezo">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true" />
 </a>
+<a href="https://github.com/alexcerezo/alexcerezo">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexcerezo&theme=one_dark_pro&hide_border=true" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexcerezo&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
