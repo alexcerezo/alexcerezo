@@ -9,6 +9,13 @@
 <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true" />
 </a>
 
+<a href="https://github.com/alexcerezo/alexcerezo">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alexcerezo&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+<a href="[https://github.com/anuraghazra/convoychat](https://github.com/alexcerezo/alexcerezo)">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcerezo&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=pie)
 
