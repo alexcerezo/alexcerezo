@@ -23,6 +23,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexcerezo&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
+![](https://github-profile-trophy.vercel.app/?username=alexcerezo&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
 
 
   ## 💰 You can help me by Donating
