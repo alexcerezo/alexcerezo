@@ -16,14 +16,14 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true" />
 </a>
 <a href="https://github.com/alexcerezo/alexcerezo">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexcerezo&theme=one_dark_pro&hide_border=true&layout=compact" />
+  <img height=200 align="center" src="https://github-contributor-stats.vercel.app/api?username=alexcerezo&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true" />
 </a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexcerezo&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alexcerezo&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+![]()
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alexcerezo&icon=1&color=6)](https://visitcount.itsvg.in)
