@@ -228,7 +228,7 @@ p {
   </style>
 
   <!-- Common use case: embed HTML text into SVG -->
-  <foreignObject width="1400" height="700">
+  <foreignObject width="1300" height="700">
     <!--
       In the context of SVG embedded in an HTML document, the XHTML
       namespace could be omitted, but it is mandatory in the
