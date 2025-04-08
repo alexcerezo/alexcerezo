@@ -11,9 +11,9 @@
 <a href="https://github.com/alexcerezo/alexcerezo">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
 </a>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexcerezo&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=pie)
+<a href="https://github.com/alexcerezo/alexcerezo">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true" />
+</a>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexcerezo&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
