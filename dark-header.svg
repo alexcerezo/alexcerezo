@@ -1,4 +1,4 @@
-<svg viewBox="0 0 1500 600" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 1100 700" xmlns="http://www.w3.org/2000/svg">
   <style>
     @import url('https://fonts.googleapis.com/css?family=Roboto:700');
 @keyframes showTopText {
@@ -17,7 +17,7 @@
   height: 90vmin;
   position: absolute;
   top: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-100%, -50%);
   width: 90vmin;
   margin-top: 3%;
 }
@@ -28,7 +28,7 @@
   width: 100%;
 }
 .animated-title > div div {
-  font-size: 12vmin;
+  font-size: 14vmin;
   padding: 2vmin 0;
   position: absolute;
 }
@@ -97,7 +97,7 @@ svg {
 	position: relative;
 	transform-style: preserve-3d;
 	transform: rotate3d(-.1, .2, -.035, 45deg);
-    margin-left: 35%;
+    margin-left: 20%;
 }
 
 
@@ -228,7 +228,7 @@ p {
   </style>
 
   <!-- Common use case: embed HTML text into SVG -->
-  <foreignObject width="1500" height="600">
+  <foreignObject width="1400" height="700">
     <!--
       In the context of SVG embedded in an HTML document, the XHTML
       namespace could be omitted, but it is mandatory in the
