@@ -275,7 +275,7 @@ p {
           <div xmlns="http://www.w3.org/1999/xhtml"  class="label--right">
             <h2>Precautions:</h2>
             <p>May cause nausea and/or confusion to <strong>some developers.</strong> Increase recommended dosage until symptoms disappear completely or dead.</p>
-            <p><strong>Beware:</strong> Some high-end features may be incompatible with specific browsers like Internet Explorer.</p><img src="el-cigala.png"><span class="icons">
+            <p><strong>Beware:</strong> Some high-end features may be incompatible with specific browsers like Internet Explorer.</p><span class="icons">
               <svg viewBox="0 0 262 336" width="24" aria-hidden="true" focusable="false">
                 <g stroke="var(--text)" stroke-linecap="round" stroke-linejoin="round">
                   <g fill="none" stroke-width="8">
