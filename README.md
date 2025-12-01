@@ -25,8 +25,16 @@
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true&card_width=508" />
 </a>
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alexcerezo&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+![](https://github-profile-trophy.vercel.app/?username=alexcerezo&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+
+
+
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/cerezocontreras) 
 
 > [!NOTE]
 > This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
