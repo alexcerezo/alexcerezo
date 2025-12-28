@@ -3,16 +3,24 @@ on:
   schedule:
     # Runs every hour, on the hour
     - cron: "0 * * * *"
+  push:
+    # run when the workflow file is modified
+    branches:
+      - main
+    paths:
+      - ".github/workflows/youtube-cards.yml"
+  # run when dispatched from actions tab
   workflow_dispatch:
 
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
-    # Allow the job to commit to the repository
-    permissions:
-      contents: write
-    # Run the GitHub Readme YouTube Cards action
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCgnVvOhU8M47U3ImbWujtUw
+          comment_tag_name: YOUTUBE-CARDS
+          max_title_lines: 2
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
+          output_type: html
