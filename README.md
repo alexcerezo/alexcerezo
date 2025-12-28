@@ -38,5 +38,8 @@
 <a href="https://www.youtube.com/watch?v=uDoyJhC6cMU"><img src="https://ytcards.demolab.com/?id=uDoyJhC6cMU&title=Tardeo+de+chill+probando+GitHub+Spark&lang=en&timestamp=1753469214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=8152" alt="Tardeo de chill probando GitHub Spark" title="Tardeo de chill probando GitHub Spark"></a>
 <!-- END YOUTUBE-CARDS -->
 
+# 📊 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=alexcerezo&theme=dark)](https://git.io/streak-stats)
+
 > [!NOTE]
 > This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
