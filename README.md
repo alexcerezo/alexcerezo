@@ -38,25 +38,5 @@
 <a href="https://www.youtube.com/watch?v=uDoyJhC6cMU"><img src="https://ytcards.demolab.com/?id=uDoyJhC6cMU&title=Tardeo+de+chill+probando+GitHub+Spark&lang=en&timestamp=1753469214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=8152" alt="Tardeo de chill probando GitHub Spark" title="Tardeo de chill probando GitHub Spark"></a>
 <!-- END YOUTUBE-CARDS -->
 
-# 📊 GitHub Stats:
-<a href="https://github.com/alexcerezo/alexcerezo">
-  <img height=200 width=435 align="center" src="https://github-readme-stats.vercel.app/api?username=alexcerezo&theme=one_dark_pro&hide_border=true&show_icons=true&card_width=355" />
-</a>
-<a href="https://github.com/alexcerezo/alexcerezo">
-  <img height=200 width=401 align="center" src="https://github-contributor-stats.vercel.app/api?username=alexcerezo&limit=4&theme=one_dark_pro&combine_all_yearly_contributions=true&hide_border=true" />
-</a>
-<br>
-<a href="https://github.com/alexcerezo/alexcerezo">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8" />
-</a>
-<a href="https://github.com/alexcerezo/alexcerezo">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexcerezo&theme=one_dark_pro&hide_border=true&card_width=508" />
-</a>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alexcerezo&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-
 > [!NOTE]
 > This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
