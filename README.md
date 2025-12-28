@@ -31,6 +31,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" height="40" alt="redis logo"  />
 </div>
 
+# Last talks
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 # 📊 GitHub Stats:
 <a href="https://github.com/alexcerezo/alexcerezo">
   <img height=200 width=435 align="center" src="https://github-readme-stats.vercel.app/api?username=alexcerezo&theme=one_dark_pro&hide_border=true&show_icons=true&card_width=355" />
