@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCgnVvOhU8M47U3ImbWujtUw
+          playlist_id: PLpm-6wQM9fecWDubnKkOcJYP20lL8fP0C
           comment_tag_name: YOUTUBE-CARDS
           max_title_lines: 2
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
