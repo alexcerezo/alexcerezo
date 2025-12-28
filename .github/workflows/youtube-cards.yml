@@ -12,6 +12,9 @@ on:
   # run when dispatched from actions tab
   workflow_dispatch:
 
+permissions:
+  contents: write  # This gives the workflow permission to push commits
+  
 jobs:
   deploy:
     runs-on: ubuntu-latest
