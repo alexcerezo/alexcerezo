@@ -1,0 +1,22 @@
+name: LinkedIn Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  linkedin-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: alexcerezo/linkedin-cards@main
+        with:
+          apify_api_token: ${{ secrets.APIFY_API_TOKEN }}
+          linkedin_username: ${{ vars.LINKEDIN_USERNAME }}
+          max_cards_to_generate: 4
+          language: es
