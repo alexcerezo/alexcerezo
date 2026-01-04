@@ -1,4 +1,4 @@
-<svg viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+<svg viewBox="0 0 320 100" xmlns="http://www.w3.org/2000/svg">
   <style>
 	@font-face {
   		font-family: 'Raleway';
@@ -9,7 +9,7 @@
 		}
 	  
    .wrapper.eight {
-        font-size: 6rem;
+        font-size: 2.5rem;
         overflow: hidden;
         color: transparent;
         width: 100%;
