@@ -1,0 +1,49 @@
+name: Auto-Generate LinkedIn Cards
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  auto-generate:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Auto-generate LinkedIn cards
+        env:
+          APIFY_API_TOKEN: ${{ secrets.APIFY_API_TOKEN }}
+          LINKEDIN_USERNAME: ${{ vars.LINKEDIN_USERNAME }}
+          MAX_CARDS_TO_GENERATE: ${{ vars.MAX_CARDS_TO_GENERATE }}
+          LANGUAGE: ${{ vars.LANGUAGE }}
+        run: node scripts/auto-generate.js
+      
+      - name: Configure Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      
+      - name: Commit changes
+        run: |
+          git add cards/ data/posts.json README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-generate LinkedIn cards [skip ci]"
+            git push
+          fi
+

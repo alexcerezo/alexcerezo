@@ -1,0 +1,1086 @@
+[
+  {
+    "urn": {
+      "activity_urn": "7410580273488138241",
+      "share_urn": "7410580272695431168",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7410580273488138241",
+    "posted_at": {
+      "date": "2025-12-27 08:20:19",
+      "relative": "1 week ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1766820019123
+    },
+    "text": "Acabo de obtener mi credencial de Fundamentos de GitHub. Se podría decir que ser miembro de GitHub Community España y no tenerla era un pecado, que hoy por fin he enmendado. 😊 \n\nAprovecho para recordar que quienes tengáis una cuenta de estudiante en GitHub Education podéis obtener las certificaciones de GitHub Foundations y GitHub Copilot de manera totalmente gratuita hasta el 30 de junio de 2026. ¡No lo dejéis pasar! ⌛",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_fundamentos-de-github-activity-7410580273488138241-sIZP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 16,
+      "like": 9,
+      "support": 1,
+      "love": 2,
+      "insight": 0,
+      "celebrate": 4,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQH-zDm1sdWhMw/articleshare-shrink_1280_800/B4EZtengoQHMAQ-/0/1766818975436?e=1768093200&v=beta&t=CB492KvAN9z2FkTJVk5HbQh8yJB5t1OoyfHgCDsGrg4"
+    },
+    "article": {
+      "url": "https://learn.microsoft.com/api/credentials/share/es-es/alexcerezo/91FBE057E45295F1?sharingId=B3DCEEFBC7DB4BEF",
+      "title": "Fundamentos de GitHub",
+      "subtitle": "learn.microsoft.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQH-zDm1sdWhMw/articleshare-shrink_1280_800/B4EZtengoQHMAQ-/0/1766818975436?e=1768093200&v=beta&t=CB492KvAN9z2FkTJVk5HbQh8yJB5t1OoyfHgCDsGrg4"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7404566046545903616",
+      "share_urn": null,
+      "ugcPost_urn": "7404566045287399425"
+    },
+    "full_urn": "urn:li:ugcPost:7404566045287399425",
+    "posted_at": {
+      "date": "2025-12-10 18:01:55",
+      "relative": "3 weeks ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1765386115681
+    },
+    "text": "La semana pasada colaboré con Flutter Málaga dando una charla en el #GSEC sobre \"La odisea de Dash al Deploy\" y cómo podemos llevar el desarrollo de software al siguiente nivel utilizando GitHub Copilot Custom Agents para el desarrollo de aplicaciones con Flutter 🤖.\n\nFue una experiencia genial poder mostrar en vivo cómo orquestar un equipo de agentes de IA especializados: desde Dash🐦 programando la arquitectura, pasando por Semantidash🤓 asegurando la accesibilidad y El Bicho🪲 en los tests, hasta llegar a La Cabra🐐 automatizando el despliegue.\n\nLo mejor fue demostrar que, con el contexto y el uso adecuados, la IA deja de ser solo un chat para convertirse en una extensión real de nuestro equipo 🧠.\n\nSi te interesa, puedes ver la charla en el canal de YouTube de GitHub Community España, puedes verla aquí: https://lnkd.in/eKAV2C3s",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_gsec-activity-7404566046545903616-oy71?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 41,
+      "like": 27,
+      "support": 1,
+      "love": 3,
+      "insight": 0,
+      "celebrate": 10,
+      "funny": 0,
+      "comments": 4,
+      "reposts": 0
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQGM8PonpbSCQQ/feedshare-shrink_2048_1536/B4EZsJNeL6HMAw-/0/1765386114741?e=1769040000&v=beta&t=ML3WcQ4voCPlPo9shS6jVfWbtnMr-1hYh9xNwL7G-N4",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGM8PonpbSCQQ/feedshare-shrink_2048_1536/B4EZsJNeL6HMAw-/0/1765386114741?e=1769040000&v=beta&t=ML3WcQ4voCPlPo9shS6jVfWbtnMr-1hYh9xNwL7G-N4",
+          "width": 2048,
+          "height": 1365
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQGunVombrCVBg/feedshare-shrink_2048_1536/B4EZsJNeD_KUA0-/0/1765386112275?e=1769040000&v=beta&t=m9f58T6WwCejDCcFO26l5nRgc8ZwYfJvGlrrZs6d21w",
+          "width": 2048,
+          "height": 1365
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEG_6ZMhB4aNw/feedshare-shrink_2048_1536/B4EZsJNd.MIIAw-/0/1765386098135?e=1769040000&v=beta&t=IUdXab103MQoHS5Uu4miW15YCsFf50nL_fUZFbInh04",
+          "width": 2048,
+          "height": 1365
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7377475497473146880",
+      "share_urn": null,
+      "ugcPost_urn": "7377475496357380096"
+    },
+    "full_urn": "urn:li:ugcPost:7377475496357380096",
+    "posted_at": {
+      "date": "2025-09-27 00:53:45",
+      "relative": "3 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1758927225464
+    },
+    "text": "Hoy he tenido la suerte de asistir al primer encuentro de universitarios para el impulso de la ciberseguridad en la Universidad de Sevilla. ✨\n\nEste evento no solo me ha permitido ampliar mi visión sobre el tema, sino que también me ha ayudado a conocer a muchos compañeros de todas las provincias. \n\nHa sido una experiencia muy enriquecedora. El madrugón ha merecido la pena. ¡Estoy deseando poder asistir a la próxima edición! 🚀",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_hoy-he-tenido-la-suerte-de-asistir-al-primer-activity-7377475497473146880-MYnC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 20,
+      "like": 15,
+      "support": 2,
+      "love": 1,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 2
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQFIY9x0qcnuVg/feedshare-shrink_2048_1536/B4DZmIOz_3HYAw-/0/1758927222808?e=1769040000&v=beta&t=1TiM9Agj6Neei8EEzMFOFVoAqVL7nxWOy3AY3okrPP8",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQFIY9x0qcnuVg/feedshare-shrink_2048_1536/B4DZmIOz_3HYAw-/0/1758927222808?e=1769040000&v=beta&t=1TiM9Agj6Neei8EEzMFOFVoAqVL7nxWOy3AY3okrPP8",
+          "width": 2048,
+          "height": 1152
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQH4wmBAvmQTfw/feedshare-shrink_2048_1536/B4DZmIOz_QJgAw-/0/1758927221739?e=1769040000&v=beta&t=tsN-13kd4NSdpWW2tiQo8JfuckTUT2dCTX_rghv-OO4",
+          "width": 2048,
+          "height": 1536
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7374160674068877312",
+      "share_urn": "7374160672584208385",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7374160674068877312",
+    "posted_at": {
+      "date": "2025-09-17 21:21:49",
+      "relative": "3 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1758136909978
+    },
+    "text": "Hoy a tocado asistir a la charla de AzureMálaga en las oficinas de Sector Alarm Group. Robert Przybylski (he/him) nos ha compartido una pequeña parte de todo lo que sabe de Entra ID, un servicio de gestion de identidades y acceso de Microsoft.\n\nGracias en especial a Javier Garcia Martinez y Jesús Estévez Caparrós por hacer posible la charla.",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_hoy-a-tocado-asistir-a-la-charla-de-azurem%C3%A1laga-activity-7374160674068877312-biYP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 23,
+      "like": 17,
+      "support": 1,
+      "love": 2,
+      "insight": 0,
+      "celebrate": 3,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 1
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQGoyKCfN09rKw/feedshare-shrink_2048_1536/B4DZlZICqbGkAw-/0/1758136909097?e=1769040000&v=beta&t=Q-hBMD_LEKP0IOVJf9i-x-rNmRlgzpauL7EHiM4KanM",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQGoyKCfN09rKw/feedshare-shrink_2048_1536/B4DZlZICqbGkAw-/0/1758136909097?e=1769040000&v=beta&t=Q-hBMD_LEKP0IOVJf9i-x-rNmRlgzpauL7EHiM4KanM",
+          "width": 2040,
+          "height": 1536
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7341773080580489217",
+      "share_urn": "7341773079456444416",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7341773080580489217",
+    "posted_at": {
+      "date": "2025-06-20 12:25:05",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1750415105958
+    },
+    "text": "Estoy por el OpenSouthCode en el stand the Sector Alarm España y Javier Garcia Martinez me ha liado para hacer el quiz.",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_estoy-por-el-opensouthcode-en-el-stand-the-activity-7341773080580489217-HpSx?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 14,
+      "like": 8,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 5,
+      "funny": 1,
+      "comments": 1,
+      "reposts": 1
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQGCeJOue4V3xg/feedshare-shrink_2048_1536/B4DZeM3sD7GsAo-/0/1750415104353?e=1769040000&v=beta&t=JWH6UO3oGGGAxHGGEg5q9M-LSvXrZBNBjUv-GYJs8Co",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQGCeJOue4V3xg/feedshare-shrink_2048_1536/B4DZeM3sD7GsAo-/0/1750415104353?e=1769040000&v=beta&t=JWH6UO3oGGGAxHGGEg5q9M-LSvXrZBNBjUv-GYJs8Co",
+          "width": 2048,
+          "height": 1536
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7338266265586696192",
+      "share_urn": "7338266264622006273",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7338266265586696192",
+    "posted_at": {
+      "date": "2025-06-10 20:10:16",
+      "relative": "6 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1749579016110
+    },
+    "text": "Usar herramientas open-source como LangChain nos da una velocidad increíble, pero en entornos empresariales, la seguridad siempre es una pregunta clave. ¿Cómo te aseguras de que las integraciones de terceros no introducen riesgos?\n\nPara responder a esa pregunta, Microsoft y LangChain han anunciado una colaboración muy importante. El equipo de seguridad de Microsoft revisó el framework, identificó varias áreas de mejora y ahora está trabajando codo con codo con LangChain para reforzar todo el ecosistema en Azure.\n\nEl objetivo es claro: que puedas innovar con tus herramientas open-source favoritas, pero con una capa extra de confianza y seguridad respaldada por dos gigantes. En este artículo se cuenta toda la historia y cómo puedes empezar a usar los nuevos paquetes seguros.\n\n#AI #OpenSource #SeguridadInformatica #LangChain #Microsoft #Azure #Python #Developer\n\nhttps://lnkd.in/dq_SAF-8",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_microsoft-and-langchain-leading-the-way-activity-7338266265586696192-WWaS?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 2,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQERT5ilz1WTIg/articleshare-shrink_1280_800/B4DZdBJUDMHwAY-/0/1749144650316?e=1768093200&v=beta&t=pb0ihoFmsOwva1Fko1eJ3J_dkd_lchI1p2ADhNCk1nc"
+    },
+    "article": {
+      "url": "https://devblogs.microsoft.com/blog/microsoft-and-langchain-leading-the-way-in-ai-security-for-open-source-on-azure?WT.mc_id=studentamb_472298",
+      "title": "Microsoft and LangChain: Leading the Way in AI Security for Open Source on Azure - Microsoft for Developers",
+      "subtitle": "devblogs.microsoft.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQERT5ilz1WTIg/articleshare-shrink_1280_800/B4DZdBJUDMHwAY-/0/1749144650316?e=1768093200&v=beta&t=pb0ihoFmsOwva1Fko1eJ3J_dkd_lchI1p2ADhNCk1nc"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7335636134686785537",
+      "share_urn": "7335636133927698433",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7335636134686785537",
+    "posted_at": {
+      "date": "2025-06-03 13:59:04",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1748951944038
+    },
+    "text": "¿Estás construyendo una startup? Microsoft te financia la infraestructura potente, la seguridad robusta y las herramientas de desarrollo e IA más recientes para que avances con confianza.\n\nPuedes obtener créditos de Azure para impulsar tu proyecto: hasta $1000 si estás empezando y hasta $150,000 si ya tienes tu empresa.\n\nhttps://lnkd.in/dRE-Y3Rq",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_microsoft-for-startups-foundershub-activity-7335636134686785537-FL2Q?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 3,
+      "like": 2,
+      "support": 0,
+      "love": 1,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "article": {
+      "url": "https://foundershub.startups.microsoft.com/signup?WT.mc_id=studentamb_472298",
+      "title": "Microsoft for Startups FoundersHub",
+      "subtitle": "foundershub.startups.microsoft.com"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7335406718144671746",
+      "share_urn": "7335406717217746944",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7335406718144671746",
+    "posted_at": {
+      "date": "2025-06-02 22:47:26",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1748897246872
+    },
+    "text": "Es sábado por la mañana y salta una alerta crítica en producción. Pero en lugar de arruinarte el fin de semana, un agente de IA la detecta, analiza los logs, identifica la causa, despliega un hotfix y crea un issue en GitHub con el informe completo. Todo por su cuenta.\n\nEsto no es ciencia ficción, es solo uno de los ejemplos de \"Agentic DevOps\" que se explican en este artículo. La IA ya no es solo un asistente, es un compañero de equipo autónomo. Este post muestra cómo esta idea se aplica a TODO el ciclo de vida: desde convertir un diseño de Figma en código hasta modernizar una app legacy en minutos.\n\nSi quieres ver con tus propios ojos cómo funciona esta nueva revolución, tienes que leerlo.\n\nhttps://lnkd.in/d3SCzwAu",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_agentic-devops-in-action-reimagining-every-activity-7335406718144671746-CsqX?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 2,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D5627AQE1YYHmi6DpkQ/articleshare-shrink_1280_800/B56Zcde2NzGsAQ-/0/1748546316251?e=1768093200&v=beta&t=CaW3Yhz6JwMt24rWtvqdCUtBtPSQWKfmJJ4-aNr3gTU"
+    },
+    "article": {
+      "url": "https://devblogs.microsoft.com/blog/reimagining-every-phase-of-the-developer-lifecycle?WT.mc_id=studentamb_472298",
+      "title": "Agentic DevOps in action: Reimagining every phase of the developer lifecycle",
+      "subtitle": "devblogs.microsoft.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D5627AQE1YYHmi6DpkQ/articleshare-shrink_1280_800/B56Zcde2NzGsAQ-/0/1748546316251?e=1768093200&v=beta&t=CaW3Yhz6JwMt24rWtvqdCUtBtPSQWKfmJJ4-aNr3gTU"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7334851708222693376",
+      "share_urn": "7334851707312455680",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7334851708222693376",
+    "posted_at": {
+      "date": "2025-06-01 10:02:02",
+      "relative": "7 months ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1748764922195
+    },
+    "text": "Con tantos anuncios sobre Copilot, a veces es difícil saber por dónde empezar.\n\nMicrosoft ha lanzado el \"Centro de aprendizaje de Copilot\", un portal que centraliza TODO lo que necesitas para dominar esta tecnología. No importa tu nivel: te ayuda a entender los conceptos básicos, a implementarlo y te da las herramientas para extenderlo y crear tus propios agentes de IA o MCPs.\n\nEs un punto de partida idóneo para no perderte nada y sacarle el máximo partido.\n\nÉchale un vistazo y guarda el enlace: https://lnkd.in/dTUJg7NS\n\n#MicrosoftCopilot #AI #InteligenciaArtificial #Formacion #MicrosoftLearn #Developer",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_learn-how-to-use-microsoft-365-copilot-activity-7334851708222693376-U2g2?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 0,
+      "like": 0,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGq86npbhTzmg/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1741069403238?e=1768093200&v=beta&t=pImb02EDPGASH4nK87wfo8loSFO0UuyOK7oFPXhWJI0"
+    },
+    "article": {
+      "url": "https://learn.microsoft.com/copilot/?WT.mc_id=studentamb_472298",
+      "title": "Learn how to use Microsoft 365 Copilot",
+      "subtitle": "learn.microsoft.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQGq86npbhTzmg/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1741069403238?e=1768093200&v=beta&t=pImb02EDPGASH4nK87wfo8loSFO0UuyOK7oFPXhWJI0"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7334610380637237248",
+      "share_urn": "7334610379743936512",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7334610380637237248",
+    "posted_at": {
+      "date": "2025-05-31 18:03:05",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1748707385215
+    },
+    "text": "Los AI Agents en VS Code han recibido una de sus mayores actualizaciones. Con esta nueva integración de MCP, ahora pueden conectarse de forma segura a un ecosistema de herramientas externas como GitHub, Playwright y más.\n\nEsto cambia por completo las reglas del juego para los flujos de trabajo asistidos por IA. Si quieres saber cómo funciona descubre todos los detalles en el anuncio oficial: \n\nhttps://lnkd.in/d46rUwiv\n\n#VSCode #AI #DeveloperTools #MCP #FutureOfCode #Innovation",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_beyond-the-tools-adding-mcp-in-vs-code-activity-7334610380637237248-4-ZB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 0,
+      "like": 0,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHjXRSssgfAvA/articleshare-shrink_1280_800/B4EZbTID2rGQAU-/0/1747298828122?e=1768093200&v=beta&t=KjdddONgLwXOowL2qDSoHWWatqcsuj5AFDB13nH4Lw4"
+    },
+    "article": {
+      "url": "https://code.visualstudio.com/blogs/2025/05/12/agent-mode-meets-mcp/?WT.mc_id=studentamb_472298",
+      "title": "Beyond the tools, adding MCP in VS Code",
+      "subtitle": "code.visualstudio.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4E27AQHjXRSssgfAvA/articleshare-shrink_1280_800/B4EZbTID2rGQAU-/0/1747298828122?e=1768093200&v=beta&t=KjdddONgLwXOowL2qDSoHWWatqcsuj5AFDB13nH4Lw4"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7331012769434984449",
+      "share_urn": null,
+      "ugcPost_urn": "7331012768214528000"
+    },
+    "full_urn": "urn:li:ugcPost:7331012768214528000",
+    "posted_at": {
+      "date": "2025-05-21 19:47:27",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1747849647864
+    },
+    "text": "¡Qué gran tarde la de ayer en el Google I/O Watch Party! 🚀\n\nTuve el placer de visitar por primera vez las instalaciones del Google Safety Engineering Center (GSEC), donde el equipo de GDG on Campus Málaga montó una Watch Party de primera. \n\nMe quedé impresionado con los anuncios del #GoogleIO y todas las novedades que se vienen. Pero sobretodo una cosa quedó bien clara, vamos a tener IA hasta en la sopa. 😂 \n\nPero, seamos sinceros, no todo iba a ser IA y anuncios futuristas... Después de tanta info, tocó recargar pilas y qué mejor manera que con networking del bueno y unas pizzas. 🍕🤝\n\nUn ambiente increíble para conocer gente nueva y sentir la buenas vibes de la comunidad tech malagueña. ¡Así da gusto!\n\nMil gracias a GDG on Campus Málaga  por la organización y por hacer posible esta experiencia en un sitio tan top como el GSEC. Un lujazo haber participado.\n\n#GoogleIO #GoogleIOWatchParty #GSECMalaga #OnCampusMalaga #Google #Networking #Tecnologia #Innovacion #ComunidadTech #Malaga",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_googleio-googleio-googleiowatchparty-activity-7331012769434984449-Sb2l?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 7,
+      "like": 5,
+      "support": 1,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQFpyq4cf8u-wA/feedshare-shrink_1280/B4DZbz9QZMIAAs-/0/1747849646081?e=1769040000&v=beta&t=fLsrOsvPgZky3134ix_a-Vymakwr3QzVQPpOalBeOWo",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQFpyq4cf8u-wA/feedshare-shrink_1280/B4DZbz9QZMIAAs-/0/1747849646081?e=1769040000&v=beta&t=fLsrOsvPgZky3134ix_a-Vymakwr3QzVQPpOalBeOWo",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQFXUjLKrFbPVA/feedshare-shrink_1280/B4DZbz9QaNGwAk-/0/1747849646092?e=1769040000&v=beta&t=lnpApoTuzbPS9tV-flSXEBr8HA_RD8PnIGNgfuUztdY",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQFwXPRrNwH9Hw/feedshare-shrink_1280/B4DZbz9QYhHQAw-/0/1747849645722?e=1769040000&v=beta&t=AgTowvPuRr1wrHywT0xfj2N1WXGt1HV5hUbpB6qXh1E",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHkvdGjP4DWsQ/feedshare-shrink_1280/B4DZbz9QX2HQAk-/0/1747849645819?e=1769040000&v=beta&t=MAvvpUrrq23RptOH2iW6j2HrxO2r8mQLPOhq7FP_Chk",
+          "width": 1280,
+          "height": 1706
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7327705805862912002",
+      "share_urn": null,
+      "ugcPost_urn": "7327705804365565954"
+    },
+    "full_urn": "urn:li:ugcPost:7327705804365565954",
+    "posted_at": {
+      "date": "2025-05-12 16:46:46",
+      "relative": "7 months ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1747061206308
+    },
+    "text": "Un viernes inolvidable en el #SalmorejoTech 🍅: ¡la energía cordobesa inspira!\n\nEl viernes pasado asistí, como buen cordobés, al Salmorejo Tech junto a Pablo Núñez Navarro y Juan Antonio Carvajal. Fue una jornada repleta de charlas brillantes de las que aprendí muchísimo.\n\nLo que más me sorprendió fue ver lo movilizados que están los estudiantes cordobeses; se mueven incluso más que los malagueños, a pesar de no contar con un entorno tecnológico tan rico como el de Málaga por desgracia. Los \"malagueños\" deberíamos aprovechar mucho más las oportunidades que tenemos a mano.\n\nPara redondear el día, la suerte estuvo de mi lado y en el sorteo me llevé unos magníficos cascos inalámbricos gracias a VANT. 🎧\n\nMil gracias a la organización, a los ponentes y a toda la comunidad que hace posible este evento. Sin duda, ¡repetiré! Nos vemos en la próxima edición. 🙌\n#TechCommunity #Córdoba #Málaga #Networking #SalmorejoTech",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_salmorejotech-techcommunity-caejrdoba-activity-7327705805862912002-RxiK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 14,
+      "like": 10,
+      "support": 0,
+      "love": 2,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 1
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQHMpJxGcov64Q/feedshare-shrink_2048_1536/B4DZbE9ivGGUAo-/0/1747061190625?e=1769040000&v=beta&t=F-unm3aDoqj_m4b5Eqch35WfDyyKpRqDH8vvodpY7yA",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHMpJxGcov64Q/feedshare-shrink_2048_1536/B4DZbE9ivGGUAo-/0/1747061190625?e=1769040000&v=beta&t=F-unm3aDoqj_m4b5Eqch35WfDyyKpRqDH8vvodpY7yA",
+          "width": 1824,
+          "height": 1368
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEoHVDUtWTfmA/feedshare-shrink_1280/B4DZbE9izoG8Ak-/0/1747061204856?e=1769040000&v=beta&t=SLtprtjdqBxTB3y2ror1NAT-7KSjQvtp3elQifDj7g4",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHkeXRixUSwIw/feedshare-shrink_1280/B4DZbE9iv7GwAo-/0/1747061191333?e=1769040000&v=beta&t=4qEJqhiSVM93kEOJ9BN6jcvqim7HYi72Wg8JiPunqrA",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEudBV5f2JSuQ/feedshare-shrink_1280/B4DZbE9ivYHsAk-/0/1747061190970?e=1769040000&v=beta&t=yrxeVUsG5Os7bBS3UunzKWboifY6OVISHbEmtAao0h0",
+          "width": 1280,
+          "height": 2275
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7297695618905378816",
+      "share_urn": "7297695618196504579",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7297695618905378816",
+    "posted_at": {
+      "date": "2025-02-18 20:17:00",
+      "relative": "10 months ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1739906220175
+    },
+    "text": "Mi nuevo reto profesional en Outlier 🚀\n\nHoy quiero compartir una gran noticia: he sido \"ascendido\" a Squad Manager en Outlier. 🎉\n\nHace unos meses, comencé esta etapa con ganas de aprender, aportar y crecer dentro del equipo. Ahora, con este nuevo rol, asumo el desafío de liderar un equipo, coordinar estrategias y asegurar que sigamos entregando el mejor trabajo posible.\n\nAgradezco a Outlier por la confianza y a mis compañeros por el apoyo en este camino. Estoy listo para seguir mejorando, aprendiendo de cada reto y ayudando a que el equipo alcance nuevos niveles.\n\n¡Vamos por más! 💪",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_mi-nuevo-reto-profesional-en-outlier-activity-7297695618905378816-nyhB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 1,
+      "like": 0,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 0
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7267191790049402880",
+      "share_urn": "7267191788824637440",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7267191790049402880",
+    "posted_at": {
+      "date": "2024-11-26 16:05:40",
+      "relative": "1 year ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1732633540642
+    },
+    "text": "🚀 ¡Nueva certificación sobre Data Science! 📊 Python y R en acción \n\nEstoy muy contento de compartir que he obtenido una nueva certificación en Ciencia de Datos 🎓. Durante el curso, he trabajado con herramientas como R, Python y Matplotlib, profundizando en los conceptos y metodologías clave para el análisis de datos.\n\nHe aprendido a limpiar, refinar y visualizar datos usando IBM Watson Studio, lo que me ha permitido adquirir nuevas habilidades que son esenciales para afrontar los retos del mundo de los datos 📈. Además, he obtenido una visión más clara de las habilidades necesarias para tener éxito en este campo tan emocionante 🌟.\n\nPara mí, es importante demostrar lo que sabemos no solo a través de proyectos, sino también con certificaciones que validen nuestro esfuerzo y compromiso con el aprendizaje continuo 📚.\n\n#DataScience #R #Python #Certificación #IBM #AprendizajeContinuo #CrecimientoProfesional #Datos",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_datascience-r-python-activity-7267191790049402880-pJHy?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 1,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQGnuuQgtsZXRA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732633539738?e=1769040000&v=beta&t=-IPMNOeLENgZqIX_IhW8yWVl8oFLdbHTc5LORkb6E3s",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQGnuuQgtsZXRA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732633539738?e=1769040000&v=beta&t=-IPMNOeLENgZqIX_IhW8yWVl8oFLdbHTc5LORkb6E3s",
+          "width": 1650,
+          "height": 1275
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7266202852954427392",
+      "share_urn": null,
+      "ugcPost_urn": "7266202851503132672"
+    },
+    "full_urn": "urn:li:ugcPost:7266202851503132672",
+    "posted_at": {
+      "date": "2024-11-23 22:35:59",
+      "relative": "1 year ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1732397759665
+    },
+    "text": "Hoy he tenido la oportunidad de asistir a la novena edición de DotNet Málaga🎉, ¡y además he participado como voluntario! 🙌  \n\nHa sido una experiencia increíble y llena de aprendizaje. Durante el evento, tuvimos el placer de disfrutar de charlas interesantísimas de grandes ponentes 👩‍💻👨‍💻, además de comida y bebida que hicieron que la jornada fuera aún más agradable 🥪☕.  \n\nTambién he tenido el honor de conocer a personas maravillosas, la gran mayoría también estaban como voluntarios 🤝. ¡Gracias por vuestra energía y buena vibra, me habéis hecho sentir uno más! 🌟\n\nComo ya es costumbre María del Mar Madrid Delgado, Germán Torres Tendero, Martin Kaliman y Javier Torralbo Cortés estuvieron también dando guerra y pidiendo merchandising😂🎁.\n\nAgradezco enormemente a dotnetMalaga y sus patrocinadores por hacer posible este evento posible y por brindar un espacio tan enriquecedor para la comunidad. ¡Nos vemos en la próxima edición! 🥳  \n\n#DotNetMálaga #Voluntariado #Networking #Verisk #SectorAlarm",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_dotnetmaerlaga-voluntariado-networking-activity-7266202852954427392-BoeK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 22,
+      "like": 15,
+      "support": 0,
+      "love": 5,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 5
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQHvRQUVFnCIvA/feedshare-shrink_1280/feedshare-shrink_1280/0/1732397757444?e=1769040000&v=beta&t=-TJO3HkadEWXMdwq_G9t5EYBjAjcyOdjaLfP0CH-7cE",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHvRQUVFnCIvA/feedshare-shrink_1280/feedshare-shrink_1280/0/1732397757444?e=1769040000&v=beta&t=-TJO3HkadEWXMdwq_G9t5EYBjAjcyOdjaLfP0CH-7cE",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQH_PEDHU5yCUQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732397755269?e=1769040000&v=beta&t=VuTPfMyjSSx-TwKouL0NvzimTwZMpxc5Drt0b7Y1Cn4",
+          "width": 2040,
+          "height": 1536
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQE-3AFpyqZ55A/feedshare-shrink_1280/feedshare-shrink_1280/0/1732397757405?e=1769040000&v=beta&t=7uBIYCk2-7QBZwXQB2JQ8FQt6157U0jWdPJB3P3ZYPo",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHh_XPmyrzykw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1732397757377?e=1769040000&v=beta&t=OzDvb4r3GKu6Sm0OPb2y5wBq8gs9m9WGLL0YNkdGaMc",
+          "width": 2048,
+          "height": 1536
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7265833019658174464",
+      "share_urn": null,
+      "ugcPost_urn": "7265833018274037761"
+    },
+    "full_urn": "urn:li:ugcPost:7265833018274037761",
+    "posted_at": {
+      "date": "2024-11-22 22:06:24",
+      "relative": "1 year ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1732309584536
+    },
+    "text": "Hoy he tenido el honor de asistir a la segunda edición de la Flutter DevParty🥳 organizada por Flutter Málaga.\n\nMaría del Mar Madrid Delgado, Germán Torres Tendero, Javier Torralbo Cortés y un servidor escuchamos las charlas en las que se hablaba de testing✅ de accesibilidad🦮 y de Flutter en IoT⌚️.\n\nAl final, hubo un workshop sobre como hacer una pequeña app📲 responsive con Flutter. Fue a modo de \"hackathon\"💻 express y los ganadores obtuvimos un increíble tacita☕️ de Milú.\n\nPor último, nos invitaron a una pequeña cena🍔 e hicimos un poco de networking🛜. Gracias a Flutter Málaga por todo, estoy deseando asistir al siguiente.😁🫶🏻\n\nhttps://lnkd.in/d77jZgK7\n\n#Flutter #Testing #GoogleIDX #Responsive #Workshop",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_flutter-testing-googleidx-activity-7265833019658174464-kBxO?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 11,
+      "like": 9,
+      "support": 0,
+      "love": 2,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 4,
+      "reposts": 2
+    },
+    "media": {
+      "type": "images",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQG25lvWou0w7w/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309582357?e=1769040000&v=beta&t=44xEl1egYgjCAcKvpLAFve16vHdrriPqLJcXYuwwCvw",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG25lvWou0w7w/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309582357?e=1769040000&v=beta&t=44xEl1egYgjCAcKvpLAFve16vHdrriPqLJcXYuwwCvw",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQENKJOmKZfD_w/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309581744?e=1769040000&v=beta&t=SU0Bh74o8FxVZL6lV-aBv6QeMXbLkedAi2Jza9kJ8EI",
+          "width": 1280,
+          "height": 2118
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQG3CGUutCerCw/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309582387?e=1769040000&v=beta&t=QaqyClYAXFmh3t8eEoKtson0881-zRjvu1XAFO5kZus",
+          "width": 1280,
+          "height": 1706
+        },
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEZ6g3P4T3aew/feedshare-shrink_1280/feedshare-shrink_1280/0/1732309582404?e=1769040000&v=beta&t=nkKEpeBHgIrr0Je6KAAa_q-KwFfjcEX92OBma4oIbgE",
+          "width": 1280,
+          "height": 1706
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7262069587112853505",
+      "share_urn": "7262069586445918208",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7262069587112853505",
+    "posted_at": {
+      "date": "2024-11-12 12:51:52",
+      "relative": "1 year ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1731412312296
+    },
+    "text": "✨ Hoy quiero compartir una experiencia curiosa sobre la selectividad ✨\n\nDespués de investigar a fondo una vulnerabilidad en la página de la UCO, ¡me convertí en la primera persona en España en ver su nota de selectividad antes de tiempo! 🕵️‍♂️ \n\nFue un momento inesperado de descubrimiento técnico y responsabilidad digital, y la universidad no solo reconoció el hallazgo, sino que lo corrigió para evitar que otras personas tuvieran acceso temprano.\n\nEn el artículo que he escrito, cuento cómo sucedió todo: desde la curiosidad inicial hasta la llamada de la UCO que recibí. También reflexiono sobre la importancia de informar éticamente de vulnerabilidades, porque mejorar la seguridad es algo que nos beneficia a todos.\n\n¿Tienes curiosidad por saber más? Aquí te dejo el enlace 👇 https://lnkd.in/dYnV5Q6E\n\nEspero que disfrutes la lectura y que te inspire a ver la ciberseguridad desde otra perspectiva 🔒",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_c%C3%B3mo-fui-la-primera-persona-en-ver-su-nota-activity-7262069587112853505-3d7I?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 5,
+      "like": 3,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQECXygi9VIBig/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1731412282460?e=1768093200&v=beta&t=MQAlxjF3X1Bw8rP6HJ-HGHCufQfqJcJo5JfAuYBtmcs"
+    },
+    "article": {
+      "url": "https://alexcerezo.es/selectividad-uco/",
+      "title": "Cómo fui la primera persona en ver su nota de Selectividad",
+      "subtitle": "alexcerezo.es",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQECXygi9VIBig/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1731412282460?e=1768093200&v=beta&t=MQAlxjF3X1Bw8rP6HJ-HGHCufQfqJcJo5JfAuYBtmcs"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7260218865463316480",
+      "share_urn": "7260218862388875265",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7260218865463316480",
+    "posted_at": {
+      "date": "2024-11-07 10:17:45",
+      "relative": "1 year ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1730971065870
+    },
+    "text": "🚀 ¡Nuevo logro desbloqueado! 🚀\n\nAcabo de obtener el certificado en Gestión de Proyectos y Metodología Agile 🎓, completando una semana intensa de aprendizaje y crecimiento profesional. Este es el tercer certificado que obtengo esta semana, y cada uno me ha aportado nuevas herramientas y habilidades para mejorar en la gestión de proyectos y la colaboración en equipos.\n\nCon este curso impartido por Santander Open Academy, he profundizado en metodologías como Scrum y Kanban, y he aprendido técnicas de mejora continua que me permiten adaptarme mejor a entornos cambiantes y optimizar el flujo de trabajo. Ahora, estoy listo para aplicar estos conocimientos y aportar más valor en cada proyecto en el que participe.\n\nGracias a todos los que me han apoyado en este camino. ¡Vamos a por más! 💪✨\n\n#Certificación #ProjectManagement #Agile #Scrum #Kanban #FormaciónContinua #CrecimientoProfesional #Aprendizaje",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_certificaciaejn-projectmanagement-agile-activity-7260218865463316480-_j-X?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 1,
+      "like": 0,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 1,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4E22AQEnisTA_VHAXg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730971064289?e=1769040000&v=beta&t=k30g2-kIHqcEmxvRVxglZSVrxjDYp8yaacoJnQtRHrQ",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4E22AQEnisTA_VHAXg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730971064289?e=1769040000&v=beta&t=k30g2-kIHqcEmxvRVxglZSVrxjDYp8yaacoJnQtRHrQ",
+          "width": 2048,
+          "height": 1280
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7259857092809814016",
+      "share_urn": "7259857091786391552",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7259857092809814016",
+    "posted_at": {
+      "date": "2024-11-06 10:20:12",
+      "relative": "1 year ago • Edited • Visible to anyone on or off LinkedIn",
+      "timestamp": 1730884812548
+    },
+    "text": "🚀 Hoy doy un paso más en mi camino en el campo de la inteligencia artificial: he obtenido el Certificado de finalización en IA Generativa. 🎉\n\nEste curso, desarrollado por MIT Professional Education, me ha dado una visión profunda sobre cómo se aplica la IA generativa en distintos sectores y su impacto en el futuro de la tecnología. Desde los fundamentos de los modelos generativos hasta las técnicas avanzadas, ha sido una gran experiencia para consolidar mis conocimientos en este campo en constante evolución.\n\nEstoy entusiasmado por aplicar lo aprendido en mis proyectos y explorar nuevas oportunidades para seguir creciendo en el ámbito de la IA. ¡A por nuevos retos! 💪✨\n\n#IAGenerativa #Certificación #MIT #InteligenciaArtificial #Tecnología",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_iagenerativa-certificaciaejn-mit-activity-7259857092809814016-Wpq3?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 0,
+      "support": 0,
+      "love": 1,
+      "insight": 0,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQHoYfFydMB9Ng/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730884811790?e=1769040000&v=beta&t=cwrNXF6viysKd9_VOdVdkRhltDSzSQSwwLc2eXGCFwk",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQHoYfFydMB9Ng/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730884811790?e=1769040000&v=beta&t=cwrNXF6viysKd9_VOdVdkRhltDSzSQSwwLc2eXGCFwk",
+          "width": 2048,
+          "height": 1280
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7259498893472661504",
+      "share_urn": "7259498892491116544",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7259498893472661504",
+    "posted_at": {
+      "date": "2024-11-05 10:36:51",
+      "relative": "1 year ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1730799411171
+    },
+    "text": "🚀 ¡Nueva certificación en Inteligencia Artificial y Productividad completada! 🎓📈\n\nHoy he finalizado el curso \"Inteligencia Artificial y Productividad\" desarrollado por Google. Aunque ya contaba con los conocimientos abordados en el programa, he decidido certificar mis habilidades para consolidar y validar mi experiencia en este ámbito tan relevante. ✅💡\n\nGracias a este curso, sigo comprometido en optimizar mi conocimiento en IA y aplicarlo de manera efectiva en mis proyectos profesionales. ¡Listo para seguir innovando y contribuyendo al crecimiento de la tecnología en todos los ámbitos! 🚀💻\n#InteligenciaArtificial #Productividad #Certificación #Google #IA #aprendizaje",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_inteligenciaartificial-productividad-certificaciaejn-activity-7259498893472661504-YMzB?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 3,
+      "like": 1,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 2,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/v2/D4D22AQEO8ntPXcIG5g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730799409671?e=1769040000&v=beta&t=1-chPrvywCAZ93ma-9TDq7qUPYwapv-UzYkPSoMw58M",
+      "images": [
+        {
+          "url": "https://media.licdn.com/dms/image/v2/D4D22AQEO8ntPXcIG5g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730799409671?e=1769040000&v=beta&t=1-chPrvywCAZ93ma-9TDq7qUPYwapv-UzYkPSoMw58M",
+          "width": 2048,
+          "height": 1280
+        }
+      ]
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7256968460545445888",
+      "share_urn": "7256968459903746049",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7256968460545445888",
+    "posted_at": {
+      "date": "2024-10-29 11:01:48",
+      "relative": "1 year ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1730196108948
+    },
+    "text": "🚀 ¿Te imaginas publicar en WordPress cada día sin esfuerzo? 🌐\n\nHoy comparto una herramienta que he desarrollado para automatizar la publicación de artículos en WordPress utilizando la inteligencia artificial de Google, Gemini, y GitHub Actions.\n\nEste sistema no solo ahorra tiempo, sino que garantiza contenido optimizado para SEO y ¡sin intervención humana! Ideal para quienes gestionan blogs o sitios web y necesitan mantener una publicación constante y de calidad. Si quieres saber más sobre cómo poner tu blog en piloto automático, te invito a leer el artículo completo donde explico cómo configurarlo y aprovechar al máximo esta integración.\n\n#WordPress #IA #Automatización #GitHubActions #Gemini #SEO #Blogging",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_publish-on-wordpress-every-day-without-effort-activity-7256968460545445888-Rz0G?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 4,
+      "like": 2,
+      "support": 0,
+      "love": 0,
+      "insight": 1,
+      "celebrate": 1,
+      "funny": 0,
+      "comments": 3,
+      "reposts": 2
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQEPgnDcUNkX-g/articleshare-shrink_800/articleshare-shrink_800/0/1754213575660?e=1768093200&v=beta&t=2eYEYRTDuS17u7RhQYiLn-r35Y7fEyvREZtUpX8Y2FM"
+    },
+    "article": {
+      "url": "https://link.medium.com/C7EzlZzq5Nb",
+      "title": "Publish on WordPress Every Day Without Effort: How Google’s Gemini AI and GitHub Actions Can Do All…",
+      "subtitle": "link.medium.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQEPgnDcUNkX-g/articleshare-shrink_800/articleshare-shrink_800/0/1754213575660?e=1768093200&v=beta&t=2eYEYRTDuS17u7RhQYiLn-r35Y7fEyvREZtUpX8Y2FM"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  },
+  {
+    "urn": {
+      "activity_urn": "7254051344855035906",
+      "share_urn": "7254051344125153282",
+      "ugcPost_urn": null
+    },
+    "full_urn": "urn:li:activity:7254051344855035906",
+    "posted_at": {
+      "date": "2024-10-21 10:50:14",
+      "relative": "1 year ago • Visible to anyone on or off LinkedIn",
+      "timestamp": 1729500614370
+    },
+    "text": "🚀 ¡Nuevo proyecto en GitHub! 🚀\n\nHoy estoy emocionado de compartir mi último desarrollo: Brocolímetro, una web interactiva que visualiza datos sobre condenas en España, utilizando datos oficiales del INE 📊.\n\nHe utilizado 3D.js para crear gráficos dinámicos que permiten analizar las condenas según varios parámetros:\n- 📅 Año de condena\n- 👤 Sexo de los condenados\n- 🌍 Nacionalidad (españoles y extranjeros)\n\nLa plataforma busca facilitar la comprensión y el análisis de estos datos de manera intuitiva, permitiendo explorar visualmente la información con gráficos interactivos. Es un paso más en mi objetivo de usar la tecnología para hacer los datos más accesibles y comprensibles para todos.\n\n🔗 Puedes ver el código aquí: https://lnkd.in/dmHqFDMT\n🔗 Y probar el Brocolímetro aquí: https://lnkd.in/dnZXyCfZ\n\n¡Espero que os guste! Feedback y comentarios siempre bienvenidos 😊.\n\n#DataScience #VisualizaciónDeDatos #INE #3DJS #ProgramaciónWeb #GitHubProjects #OpenSource #DesarrolloWeb #España #JavaScript",
+    "url": "https://www.linkedin.com/posts/alexcerezocontreras_github-alexcerezobrocolimetro-activity-7254051344855035906-FJOg?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGDzZvgBnXqsXb6EUzbmoDxCnI-PyrDZsvM",
+    "post_type": "regular",
+    "author": {
+      "first_name": "Alejandro",
+      "last_name": "Cerezo Contreras",
+      "headline": "Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps",
+      "username": "alexcerezocontreras",
+      "profile_url": "https://www.linkedin.com/in/alexcerezocontreras?miniProfileUrn=urn%3Ali%3Afsd_profile%3AACoAACYEB2gB1mgVEI0n35CVvEvTyPJuSvPEEJ4",
+      "profile_picture": "https://media.licdn.com/dms/image/v2/D4E03AQEEU9p_or8otg/profile-displayphoto-crop_800_800/B4EZtRqeRnIsAY-/0/1766601648519?e=1769040000&v=beta&t=jek6smOPgr4zE0ryKJJ3otmXDiVl3U36mObNoCYaySw"
+    },
+    "stats": {
+      "total_reactions": 2,
+      "like": 2,
+      "support": 0,
+      "love": 0,
+      "insight": 0,
+      "celebrate": 0,
+      "funny": 0,
+      "comments": 0,
+      "reposts": 0
+    },
+    "media": {
+      "type": "image",
+      "url": "https://media.licdn.com/dms/image/sync/v2/D4D27AQF-9RTrVpFkTw/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1766483966470?e=1768093200&v=beta&t=336ow9cN8cFvm-fpHa_puOkb0_546LTLkstbh1Eyq2o"
+    },
+    "article": {
+      "url": "https://github.com/alexcerezo/brocolimetro",
+      "title": "GitHub - alexcerezo/brocolimetro",
+      "subtitle": "github.com",
+      "thumbnail": "https://media.licdn.com/dms/image/sync/v2/D4D27AQF-9RTrVpFkTw/articleshare-shrink_1280_800/articleshare-shrink_1280_800/0/1766483966470?e=1768093200&v=beta&t=336ow9cN8cFvm-fpHa_puOkb0_546LTLkstbh1Eyq2o"
+    },
+    "pagination_token": "dXJuOmxpOmFjdGl2aXR5OjcyNTQwNTEzNDQ4NTUwMzU5MDYtMTcyOTUwMDYxNDMzOQ=="
+  }
+]
