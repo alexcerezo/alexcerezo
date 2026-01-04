@@ -39,7 +39,7 @@ jobs:
       
       - name: Commit changes
         run: |
-          git add cards/ data/posts.json README.md
+          git add -A cards/ data/ README.md 2>/dev/null || true
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else

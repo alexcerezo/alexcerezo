@@ -323,6 +323,16 @@ async function generateCard(post) {
 
 (async () => {
     try {
+        // Ensure required directories exist
+        const cardsDir = path.join(process.cwd(), 'cards');
+        const dataDir = path.join(process.cwd(), 'data');
+        if (!fs.existsSync(cardsDir)) {
+            fs.mkdirSync(cardsDir, { recursive: true });
+        }
+        if (!fs.existsSync(dataDir)) {
+            fs.mkdirSync(dataDir, { recursive: true });
+        }
+        
         const run = await client.actor("LQQIXN9Othf8f7R5n").call(input);
         const { items } = await client.dataset(run.defaultDatasetId).listItems();
         
