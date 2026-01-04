@@ -33,6 +33,36 @@
 
 # 👀 Last LinkedIn posts
 <!-- BEGIN LINKEDIN -->
+<p align="center">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_fundamentos-de-github-activity-7410580273488138241-sIZP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGHqepQB0xdqLajuL4MVW9N_sppW09i3mzQ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="cards/1766820019123-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="cards/1766820019123-light.svg">
+      <img alt="LinkedIn Card 1" src="cards/1766820019123-light.svg" width="320px">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_gsec-activity-7404566046545903616-oy71?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGHqepQB0xdqLajuL4MVW9N_sppW09i3mzQ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="cards/1765386115681-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="cards/1765386115681-light.svg">
+      <img alt="LinkedIn Card 2" src="cards/1765386115681-light.svg" width="320px">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_hoy-he-tenido-la-suerte-de-asistir-al-primer-activity-7377475497473146880-MYnC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGHqepQB0xdqLajuL4MVW9N_sppW09i3mzQ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="cards/1758927225464-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="cards/1758927225464-light.svg">
+      <img alt="LinkedIn Card 3" src="cards/1758927225464-light.svg" width="320px">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_hoy-a-tocado-asistir-a-la-charla-de-azurem%C3%A1laga-activity-7374160674068877312-biYP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGHqepQB0xdqLajuL4MVW9N_sppW09i3mzQ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="cards/1758136909978-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="cards/1758136909978-light.svg">
+      <img alt="LinkedIn Card 4" src="cards/1758136909978-light.svg" width="320px">
+    </picture>
+  </a>
+</p>
 <!-- END LINKEDIN -->
 
 # 🎥 Last videos
