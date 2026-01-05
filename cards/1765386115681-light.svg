@@ -93,13 +93,14 @@
           background-size: cover; background-position: center;
           animation-duration: 12s; animation-iteration-count: infinite; animation-timing-function: ease-in-out; opacity: 0;
         }
-        @keyframes cycle1 { 0% {opacity:1} 30% {opacity:1} 36% {opacity:0} 94% {opacity:0} 100% {opacity:1} }
+        @keyframes cycle3_1 { 0% {opacity:1} 30.333333333333336% {opacity:1} 33.333333333333336% {opacity:0} 97% {opacity:0} 100% {opacity:1} }
+                @keyframes cycle3_2 { 0% {opacity:0} 30.333333333333336% {opacity:0} 33.333333333333336% {opacity:1} 63.66666666666667% {opacity:1} 66.66666666666667% {opacity:0} 100% {opacity:0} }
+                @keyframes cycle3_3 { 0% {opacity:0} 63.66666666666667% {opacity:0} 66.66666666666667% {opacity:1} 97% {opacity:1} 100% {opacity:0} 100% {opacity:0} }30% {opacity:1} 36% {opacity:0} 94% {opacity:0} 100% {opacity:1} }
         @keyframes cycle2 { 0% {opacity:0} 30% {opacity:0} 36% {opacity:1} 63% {opacity:1} 69% {opacity:0} 100% {opacity:0} }
         @keyframes cycle3 { 0% {opacity:0} 63% {opacity:0} 69% {opacity:1} 94% {opacity:1} 100% {opacity:0} }
-        .img-1 { animation-name: cycle1; opacity: 1; }
-                .img-2 { animation-name: cycle2; }
-                .img-3 { animation-name: cycle3; }
-      </style>
+        .img-1 { animation-name: cycle3_1; opacity: 1; }
+                .img-2 { animation-name: cycle3_2;  }
+                .img-3 { animation-name: cycle3_3;  }</style>
 
       <div class="linkedin-card">
         

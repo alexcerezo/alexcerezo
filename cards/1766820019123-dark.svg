@@ -82,12 +82,10 @@
           background-size: cover; background-position: center;
           animation-duration: 12s; animation-iteration-count: infinite; animation-timing-function: ease-in-out; opacity: 0;
         }
-        @keyframes cycle1 { 0% {opacity:1} 30% {opacity:1} 36% {opacity:0} 94% {opacity:0} 100% {opacity:1} }
+        @keyframes static1 { 0% {opacity:1} 100% {opacity:1} }30% {opacity:1} 36% {opacity:0} 94% {opacity:0} 100% {opacity:1} }
         @keyframes cycle2 { 0% {opacity:0} 30% {opacity:0} 36% {opacity:1} 63% {opacity:1} 69% {opacity:0} 100% {opacity:0} }
         @keyframes cycle3 { 0% {opacity:0} 63% {opacity:0} 69% {opacity:1} 94% {opacity:1} 100% {opacity:0} }
-        .img-1 { animation-name: static1; opacity: 1; }
-
-        .name-text {
+        .img-1 { animation-name: static1; opacity: 1; }.name-text {
           white-space: nowrap;
           overflow: hidden;
           text-overflow: ellipsis;

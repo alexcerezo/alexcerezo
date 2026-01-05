@@ -93,12 +93,12 @@
           background-size: cover; background-position: center;
           animation-duration: 12s; animation-iteration-count: infinite; animation-timing-function: ease-in-out; opacity: 0;
         }
-        @keyframes cycle1 { 0% {opacity:1} 30% {opacity:1} 36% {opacity:0} 94% {opacity:0} 100% {opacity:1} }
+        @keyframes cycle2_1 { 0% {opacity:1} 47% {opacity:1} 50% {opacity:0} 97% {opacity:0} 100% {opacity:1} }
+                @keyframes cycle2_2 { 0% {opacity:0} 47% {opacity:0} 50% {opacity:1} 97% {opacity:1} 100% {opacity:0} 100% {opacity:0} }30% {opacity:1} 36% {opacity:0} 94% {opacity:0} 100% {opacity:1} }
         @keyframes cycle2 { 0% {opacity:0} 30% {opacity:0} 36% {opacity:1} 63% {opacity:1} 69% {opacity:0} 100% {opacity:0} }
         @keyframes cycle3 { 0% {opacity:0} 63% {opacity:0} 69% {opacity:1} 94% {opacity:1} 100% {opacity:0} }
         .img-1 { animation-name: cycle2_1; opacity: 1; }
-                .img-2 { animation-name: cycle2_2; }
-      </style>
+                .img-2 { animation-name: cycle2_2;  }</style>
 
       <div class="linkedin-card">
         
