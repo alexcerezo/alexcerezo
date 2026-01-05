@@ -34,7 +34,7 @@
 </div>
 
 # 👀 Last LinkedIn posts
-<!-- BEGIN LINKEDIN -->
+<!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
   <a href="https://www.linkedin.com/posts/alexcerezocontreras_fundamentos-de-github-activity-7410580273488138241-sIZP?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGHqepQB0xdqLajuL4MVW9N_sppW09i3mzQ">
     <picture>
@@ -65,7 +65,7 @@
     </picture>
   </a>
 </p>
-<!-- END LINKEDIN -->
+<!-- END LINKEDIN-CARDS -->
 
 # 🎥 Last videos
 <!-- BEGIN YOUTUBE-CARDS -->
