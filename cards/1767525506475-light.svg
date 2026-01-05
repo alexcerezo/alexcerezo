@@ -117,7 +117,24 @@
         <div class="text-section">
           ¿Sientes que a tu perfil de GitHub le falta algo para destacar entre la multitud? 🤔
 
-Tu README es tu carta de presentación, y el texto plano ya no es suficiente. Por eso he lanzado LinkedIn Cards, una herramienta Open Source que transforma tu perfil
+Tu README es tu carta de presentación, y el texto plano ya no es suficiente. Por eso he lanzado LinkedIn Cards, una herramienta Open Source que transforma tu perfil estático en un escaparate dinámico.
+
+Conecta tus mejores publicaciones de LinkedIn directamente a tu GitHub generando tarjetas visuales automáticas. Muestra tu actividad, tus proyectos y tu voz profesional en un vistazo.
+
+Por qué integrarlo en tu repo: 
+🌗 Se ve perfecto tanto en temas claros como oscuros. 
+🌍 Soporte nativo para múltiples idiomas. 
+⚡ 100% Automático gracias a que GitHub Actions se encarga de actualizar el contenido a diario.
+
+Deja de tener un perfil "fantasma" y empieza a mostrar tu impacto real. 
+
+Tienes el código listo para usar y documentado aquí:
+
+🔗 https://lnkd.in/ek7q9sHg
+
+PD: Como prueba de que funciona, ¡esta misma publicación aparecerá automáticamente en mi propio README mañana! Así que comparte este post si quieres formar parte de mi perfil de GitHub por unos días. 😉
+
+#GitHub #PersonalBranding #OpenSource #LinkedInCards #DeveloperTools #WebDevelopment #ProfileTips
         </div>
 
         <div class="footer-section">
