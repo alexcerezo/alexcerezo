@@ -103,7 +103,7 @@
           <div style="display: flex; flex-direction: column; line-height: 1.2; min-width: 0; flex: 1;">
             <span class="name-text" style="font-weight: 700; font-size: 15px; color: #191919;">Alejandro Cerezo Contreras</span>
             <span class="bio-text" style="font-size: 13px; color: #666;">Software Engineer | 🤖 Squad Manager at Outlier | 🐙 Co-organizer of GitHub Community Spain | 🧠 AI Specialist | 🌐 DevOps</span>
-            <span style="font-size: 12px; color: #666; margin-top: 2px;">Hace 2 días • 🌐</span>
+            <span style="font-size: 12px; color: #666; margin-top: 2px;">Hace 3 días • 🌐</span>
           </div>
 
           <div style="margin-left: auto; width: 24px; height: 24px; flex-shrink: 0;">
@@ -140,7 +140,7 @@ PD: Como prueba de que funciona, ¡esta misma publicación aparecerá automátic
         <div class="footer-section">
            <div style="display: flex; align-items: center; font-size: 12px; color: #666;">
              <span style="margin-right: 6px;">👍 ❤️ 👏</span>
-             <span>15 </span>
+             <span>16 </span>
            </div>
            <div style="font-size: 12px; color: #666;">
              6 comentarios
