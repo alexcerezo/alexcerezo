@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timburgan/timburgan</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Play chess via GitHub</div>
@@ -2334,7 +2334,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/markup</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Determines which markup library to use to render a content file (e.g. README) on GitHub</div>
@@ -2387,7 +2387,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>github/codeql</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</div>
@@ -2527,7 +2527,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Jan 2026, 10:07:07 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Jan 2026, 11:03:55 (timezone Europe/Madrid) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
