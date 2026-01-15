@@ -75,7 +75,7 @@
 <!-- END YOUTUBE-CARDS -->
 
 # 📊 GitHub Stats
-![Metrics](https://metrics.lecoq.io/?template=classic&isocalendar=1&stars=1&people=1&support=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&stars=false&stars.limit=4&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&support=false&config.timezone=Europe%2FMadrid)
+![My GitHub Game](game.gif)
 
 > [!NOTE]
 > This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
