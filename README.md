@@ -75,10 +75,6 @@
 <!-- END YOUTUBE-CARDS -->
 
 # 📊 GitHub Stats
-<p align="center">
-	<img src="github-metrics.svg">
-</p>
-
 ![My GitHub Game](game.gif)
 
 > [!NOTE]
