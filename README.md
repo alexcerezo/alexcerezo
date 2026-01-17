@@ -68,11 +68,13 @@
 <!-- END LINKEDIN-CARDS -->
 
 # 🎥 Last videos
+<p align="center">
 <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=K1MtiR7lWa4"><img src="https://ytcards.demolab.com/?id=K1MtiR7lWa4&title=La+odisea+de+Dash+al+Deploy%3A+Usando+Custom+Agents+para+el+desarrollo+con+Flutter&lang=en&timestamp=1765360838&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=1822" alt="La odisea de Dash al Deploy: Usando Custom Agents para el desarrollo con Flutter" title="La odisea de Dash al Deploy: Usando Custom Agents para el desarrollo con Flutter"></a>
 <a href="https://www.youtube.com/watch?v=VU7x8-5S7gw"><img src="https://ytcards.demolab.com/?id=VU7x8-5S7gw&title=Skillsets%3A+Integra+tus+APIs+y+herramientas+en++VS+Code+y+Copilot+Chat&lang=en&timestamp=1752210557&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=3721" alt="Skillsets: Integra tus APIs y herramientas en  VS Code y Copilot Chat" title="Skillsets: Integra tus APIs y herramientas en  VS Code y Copilot Chat"></a>
 <a href="https://www.youtube.com/watch?v=uDoyJhC6cMU"><img src="https://ytcards.demolab.com/?id=uDoyJhC6cMU&title=Tardeo+de+chill+probando+GitHub+Spark&lang=en&timestamp=1753469214&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=8152" alt="Tardeo de chill probando GitHub Spark" title="Tardeo de chill probando GitHub Spark"></a>
 <!-- END YOUTUBE-CARDS -->
+</p>
 
 # 📊 GitHub Stats
 ![My GitHub Game](game.gif)
