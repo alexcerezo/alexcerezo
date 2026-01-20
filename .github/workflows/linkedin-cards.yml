@@ -20,3 +20,4 @@ jobs:
           linkedin_username: ${{ vars.LINKEDIN_USERNAME }}
           max_cards_to_generate: 4
           language: es
+          include_reposts: 'true'
