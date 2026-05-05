@@ -36,28 +36,28 @@
 # 👀 Last LinkedIn posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_aws-devops-cloud-activity-7455551339629215744-rL6y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGfnYzABxHoEC16b7jQk0HnuFgHtsI2bWkA">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_aws-devops-cloud-activity-7455551339629215744-rL6y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGfvFgMBOzfGF9YhD5_qW9827uabBYVxbhY">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1777541956813-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1777541956813-light.svg">
       <img alt="LinkedIn Card 1" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1777541956813-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_devops-cloudcomputing-informaticauma-activity-7449858803501535232-GIqE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGfnYzABxHoEC16b7jQk0HnuFgHtsI2bWkA">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_devops-cloudcomputing-informaticauma-activity-7449858803501535232-GIqE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGfvFgMBOzfGF9YhD5_qW9827uabBYVxbhY">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1776184750438-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1776184750438-light.svg">
       <img alt="LinkedIn Card 2" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1776184750438-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_la-revoluci%C3%B3n-de-los-llm-en-el-deporte-thu-activity-7442669906057277440-GdIN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGfnYzABxHoEC16b7jQk0HnuFgHtsI2bWkA">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_la-revoluci%C3%B3n-de-los-llm-en-el-deporte-thu-activity-7442669906057277440-GdIN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGfvFgMBOzfGF9YhD5_qW9827uabBYVxbhY">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1774470783724-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1774470783724-light.svg">
       <img alt="LinkedIn Card 3" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1774470783724-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_aws-awsgameday-cloudcomputing-activity-7439939741636157440-KOlN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGfnYzABxHoEC16b7jQk0HnuFgHtsI2bWkA">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_aws-awsgameday-cloudcomputing-activity-7439939741636157440-KOlN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGfvFgMBOzfGF9YhD5_qW9827uabBYVxbhY">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1773819861802-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1773819861802-light.svg">
