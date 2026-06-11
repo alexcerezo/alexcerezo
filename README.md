@@ -36,25 +36,11 @@
 # 👀 Last LinkedIn posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_el-otro-d%C3%ADa-estuve-en-el-%C3%BAltimo-evento-de-activity-7468314373531402241-NrWE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGmWIiIB1-TwF5T6Ul4L-p8Xvs0gfPcOSJk">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_el-otro-d%C3%ADa-estuve-en-el-%C3%BAltimo-evento-de-activity-7468314373531402241-NrWE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGmsFz8BjJFFXa37FWfWjxUrMVuHT6qhPLY">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1780584901221-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1780584901221-light.svg">
       <img alt="LinkedIn Card 1" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1780584901221-light.svg" width="320px">
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_kubernetes-cncf-cloudnative-activity-7457383770065817602-NoMN?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGmWIiIB1-TwF5T6Ul4L-p8Xvs0gfPcOSJk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1777978842274-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1777978842274-light.svg">
-      <img alt="LinkedIn Card 2" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1777978842274-light.svg" width="320px">
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_aws-devops-cloud-activity-7455551339629215744-rL6y?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGmWIiIB1-TwF5T6Ul4L-p8Xvs0gfPcOSJk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1777541956813-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1777541956813-light.svg">
-      <img alt="LinkedIn Card 3" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1777541956813-light.svg" width="320px">
     </picture>
   </a>
 </p>
