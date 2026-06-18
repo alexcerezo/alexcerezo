@@ -36,7 +36,7 @@
 # 👀 Last LinkedIn posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_el-otro-d%C3%ADa-estuve-en-el-%C3%BAltimo-evento-de-activity-7468314373531402241-NrWE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGnwwvEB1oKeg8kW9LnP8jUoWC3aidbOWX8">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_el-otro-d%C3%ADa-estuve-en-el-%C3%BAltimo-evento-de-activity-7468314373531402241-NrWE?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGn7KDABjeuYGyXo7RITvOCQs_BzfzlomVQ">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1780584901221-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1780584901221-light.svg">
