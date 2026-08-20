@@ -77,10 +77,12 @@
 </p>
 
 # 📊 GitHub Stats
+<a href="https://github.com/alexcerezo/activity-graph">
 <picture>
   <source media="(max-width: 767px)" srcset="https://github.com/alexcerezo/activity-graph/blob/main/activity-graph-mobile.svg">
   <img src="https://github.com/alexcerezo/activity-graph/blob/main/activity-graph.svg" alt="Activity Graph" width="100%">
 </picture>
+</a>
 
 > [!NOTE]
 > This README has been optimized for accessibility based on GitHub's blogpost "[Tips for Making your GitHub Profile Page Accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible)".
