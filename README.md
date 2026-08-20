@@ -77,13 +77,10 @@
 </p>
 
 <!-- BEGIN ACTIVITY-GRAPH -->
-# 📊 GitHub Stats
-<a href="https://github.com/alexcerezo/activity-graph">
 <picture>
-  <source media="(max-width: 767px)" srcset="https://github.com/alexcerezo/activity-graph/blob/main/activity-graph-mobile.svg">
-  <img src="https://github.com/alexcerezo/activity-graph/blob/main/activity-graph.svg" alt="Activity Graph" width="100%">
+  <source media="(max-width: 767px)" srcset="activity-graph-mobile.svg">
+  <img src="activity-graph.svg" alt="Activity Graph" width="100%">
 </picture>
-</a>
 <!-- END ACTIVITY-GRAPH -->
 
 > [!NOTE]
