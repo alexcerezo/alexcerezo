@@ -7,10 +7,10 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently studying at the University of Málaga<br>👯 I’m looking to collaborate on projects related to AI<br>🌱 I’m currently learning Angular<br>⚡ I love wine, rebujito and Diego el Cigala
+🔭 I’m currently studying at the University of Málaga<br>👯 I’m looking to collaborate on projects related to AI<br>🌱 I’m currently learning Toy Models<br>⚡ I love wine, rebujito and Diego el Cigala
 
 # 💻 Tech Stack:
-
+about 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
