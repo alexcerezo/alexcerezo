@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently studying at the University of Málaga<br>👯 I’m looking to collaborate on projects related to AI<br>🌱 I’m currently learning Toy Models<br>⚡ I love wine, rebujito and Diego el Cigala
+🔭 I’m currently studying at the University of Málaga and working at Ericsson<br>👯 I’m looking to collaborate on projects related to AI<br>🌱 I’m currently learning Toy Models<br>⚡ I love wine, rebujito and Diego el Cigala
 
 # 💻 Tech Stack:
 about 
