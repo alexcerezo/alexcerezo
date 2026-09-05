@@ -35,28 +35,28 @@
 # 👀 Last LinkedIn posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_github-community-spain-comunidad-de-desarrolladores-activity-7500486848650182656-3SgG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2O6vcBktvD7uck6lp3QCgC0dEsVOq-mD8">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_github-community-spain-comunidad-de-desarrolladores-activity-7500486848650182656-3SgG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2dDjgBrkwOHNeuQ-GWlPY98wsEsnLUW-Q">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1788255417025-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1788255417025-light.svg">
       <img alt="LinkedIn Card 1" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1788255417025-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_si-alguien-me-conoce-bien-sabe-lo-que-me-activity-7496545201965043712-rLIK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2O6vcBktvD7uck6lp3QCgC0dEsVOq-mD8">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_si-alguien-me-conoce-bien-sabe-lo-que-me-activity-7496545201965043712-rLIK?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2dDjgBrkwOHNeuQ-GWlPY98wsEsnLUW-Q">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1787315655223-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1787315655223-light.svg">
       <img alt="LinkedIn Card 2" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1787315655223-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_nos-vamos-a-hackspain-2026-se-vienen-48-activity-7491179955125567488-gPuC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2O6vcBktvD7uck6lp3QCgC0dEsVOq-mD8">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_nos-vamos-a-hackspain-2026-se-vienen-48-activity-7491179955125567488-gPuC?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2dDjgBrkwOHNeuQ-GWlPY98wsEsnLUW-Q">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1786036480695-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1786036480695-light.svg">
       <img alt="LinkedIn Card 3" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1786036480695-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_hoy-cumplo-21-a%C3%B1os-y-al-echar-la-mirada-activity-7490367172008128513-AykZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2O6vcBktvD7uck6lp3QCgC0dEsVOq-mD8">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_hoy-cumplo-21-a%C3%B1os-y-al-echar-la-mirada-activity-7490367172008128513-AykZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG2dDjgBrkwOHNeuQ-GWlPY98wsEsnLUW-Q">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1785842698099-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1785842698099-light.svg">
