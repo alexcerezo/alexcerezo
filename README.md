@@ -35,32 +35,32 @@
 # 👀 Last LinkedIn posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-m%C3%A1laga-spain-luma-activity-7514268251715964928-rdm5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG-GriABY5gmAhLXqszcmYxo6D48p-cXuWk">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-c%C3%B3rdoba-spain-luma-activity-7514630235552800768-sJJ6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG9_BksBnw8WA2v45YWNKE1DMS27BmFLHgQ">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791627463234-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791627463234-light.svg">
+      <img alt="LinkedIn Card 1" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791627463234-light.svg" width="320px">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-m%C3%A1laga-spain-luma-activity-7514268251715964928-rdm5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG9_BksBnw8WA2v45YWNKE1DMS27BmFLHgQ">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791541159562-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791541159562-light.svg">
-      <img alt="LinkedIn Card 1" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791541159562-light.svg" width="320px">
+      <img alt="LinkedIn Card 2" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791541159562-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-c%C3%B3rdoba-spain-luma-activity-7513905429215866880-Yod1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG-GriABY5gmAhLXqszcmYxo6D48p-cXuWk">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-c%C3%B3rdoba-spain-luma-activity-7513905429215866880-Yod1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG9_BksBnw8WA2v45YWNKE1DMS27BmFLHgQ">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791454655937-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791454655937-light.svg">
-      <img alt="LinkedIn Card 2" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791454655937-light.svg" width="320px">
+      <img alt="LinkedIn Card 3" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791454655937-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_linkedin-ya-no-es-una-red-social-est%C3%A1-muerto-activity-7511820590631174145-4HfZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG-GriABY5gmAhLXqszcmYxo6D48p-cXuWk">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_linkedin-ya-no-es-una-red-social-est%C3%A1-muerto-activity-7511820590631174145-4HfZ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG9_BksBnw8WA2v45YWNKE1DMS27BmFLHgQ">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1790957591684-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1790957591684-light.svg">
-      <img alt="LinkedIn Card 3" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1790957591684-light.svg" width="320px">
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_github-community-spain-comunidad-de-desarrolladores-activity-7500486848650182656-3SgG?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG-GriABY5gmAhLXqszcmYxo6D48p-cXuWk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1788255417025-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1788255417025-light.svg">
-      <img alt="LinkedIn Card 4" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1788255417025-light.svg" width="320px">
+      <img alt="LinkedIn Card 4" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1790957591684-light.svg" width="320px">
     </picture>
   </a>
 </p>
