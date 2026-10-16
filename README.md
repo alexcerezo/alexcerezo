@@ -35,32 +35,32 @@
 # 👀 Last LinkedIn posts
 <!-- BEGIN LINKEDIN-CARDS -->
 <p align="center">
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-m%C3%A1laga-spain-luma-activity-7515808457753518081-qYgL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG-70ToBE6FIFLiORn6R2FjmHvnqwwOn15c">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-m%C3%A1laga-spain-luma-activity-7516533237633093633-A_oF?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG_HS08BFGsVm1XCYdlh2526bmh59FljBAc">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1792081174286-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1792081174286-light.svg">
+      <img alt="LinkedIn Card 1" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1792081174286-light.svg" width="320px">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-c%C3%B3rdoba-spain-luma-activity-7516442943222611969-UIDD?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG_HS08BFGsVm1XCYdlh2526bmh59FljBAc">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1792059646421-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1792059646421-light.svg">
+      <img alt="LinkedIn Card 2" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1792059646421-light.svg" width="320px">
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-m%C3%A1laga-spain-luma-activity-7515808457753518081-qYgL?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG_HS08BFGsVm1XCYdlh2526bmh59FljBAc">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791908373297-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791908373297-light.svg">
-      <img alt="LinkedIn Card 1" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791908373297-light.svg" width="320px">
+      <img alt="LinkedIn Card 3" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791908373297-light.svg" width="320px">
     </picture>
   </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_githubdevdays-githubcopilot-caejrdoba-activity-7515718317307875328-V41O?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG-70ToBE6FIFLiORn6R2FjmHvnqwwOn15c">
+  <a href="https://www.linkedin.com/posts/alexcerezocontreras_githubdevdays-githubcopilot-caejrdoba-activity-7515718317307875328-V41O?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG_HS08BFGsVm1XCYdlh2526bmh59FljBAc">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791886882140-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791886882140-light.svg">
-      <img alt="LinkedIn Card 2" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791886882140-light.svg" width="320px">
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-c%C3%B3rdoba-spain-luma-activity-7514630235552800768-sJJ6?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG-70ToBE6FIFLiORn6R2FjmHvnqwwOn15c">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791627463234-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791627463234-light.svg">
-      <img alt="LinkedIn Card 3" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791627463234-light.svg" width="320px">
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/posts/alexcerezocontreras_dev-days-m%C3%A1laga-spain-luma-activity-7514268251715964928-rdm5?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAG-70ToBE6FIFLiORn6R2FjmHvnqwwOn15c">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791541159562-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791541159562-light.svg">
-      <img alt="LinkedIn Card 4" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791541159562-light.svg" width="320px">
+      <img alt="LinkedIn Card 4" src="https://github.com/alexcerezo/alexcerezo/blob/main/cards/1791886882140-light.svg" width="320px">
     </picture>
   </a>
 </p>
